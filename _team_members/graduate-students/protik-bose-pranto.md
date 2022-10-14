@@ -7,7 +7,7 @@ title: "Team"
 <img src="/assets/img/members/graduate/protik_bose_pranto.jpg" alt="" class="team-individual-img" />
 
 <!-- Write your name in the following line -->
-### You Name Here
+### Protik Bose Pranto
 
 <!-- For the social container, change the href of the links and the text to show for link. If you don't want to share all the links below, you can remove them. Same if you want to add new -->
 <div class="team-social-container">
