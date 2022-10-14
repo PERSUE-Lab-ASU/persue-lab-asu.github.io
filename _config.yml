@@ -22,78 +22,43 @@ colors:  #in hex code if not noted else
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
+collections:
+  team_members:
+    output: true
+    permalink: /team/:title/
+  project_details:
+    output: true
+    permalink: /projects/:title/
+
 # Projects
 projects:
   - name: "Privacy on social platforms"
     img: "privacy-on-social-platforms.png"
-    link: "privacy-on-social-platforms.html"
+    link: "privacy-on-social-platforms"
   - name: "Privacy, Security, and Safety issues in Education Technology"
     img: "edtech.png"
-    link: "privacy-security-and-safety-issues-in-education-technology.html"
+    link: "privacy-security-and-safety-issues-in-education-technology"
   - name: "Interdependent and multi-party privacy"
     img: "interdependent-privacy.png"
-    link: "interdependent-and-multi-party-privacy.html"
+    link: "interdependent-and-multi-party-privacy"
 
 # Faculty
 faculty:
   - name: "Dr. Rakibul Hasan"
     position: Faculty
     img: dr_rakibul_hasan.png
-    short_bio: short_bio of professor
-    bio_link: dr-rakibul-hasan.html
-    bio: 
-    "I direct the PERSUE lab. I am an assistant professor in the School of Computing and Augmented Intelligence at ASU. I am also affiliated with theCybersecurity and Trusted Foundations." 
-    social: 
-      - title: envelope
-        url: mailto:rakibul.hasan@asu.edu
-        link_to_show: rakibul.hasan@asu.edu
-      - title: twitter
-        url: https://twitter.com/rakib062
-        link_to_show: '@rakib062'
-      - title: globe
-        url: https://rakib062.github.io/
-        link_to_show: https://rakib062.github.io
+    details_link: dr-rakibul-hasan
 
 # Current graduate students
 current_grad_students:
   - name: "Protik Bose Pranto"
     position: Ph.D. student
     img: protik_bose_pranto.jpg
-    short_bio: Protik started his ph.d. on fall-22
-    bio_link: protik-bose-pranto.html
-    bio: "Protik is a Ph.D. student in Computer Science at Arizona State University. He joined the ASU Privacy lab in Fall’22. He completed his undergrad in Computer Science and Engineering from Bangladesh University of Engineering and Technology. Besides research, Protik is interested in sports, traveling, and music."
-    social: 
-      - title: envelope
-        url: mailto:ppranto@asu.edu
-        link_to_show: ppranto@asu.edu
-      - title: twitter
-        url: https://twitter.com/BoseProtik
-        link_to_show: '@BoseProtik'
-      - title: globe
-        url: https://protikbose.github.io/
-        link_to_show: https://protikbose.github.io
-      - title: github
-        url: https://github.com/protikbose
-        link_to_show: protikbose
+    details_link: protik-bose-pranto
   - name: "Waqar Hassan Khan"
     position: Ph.D. student
     img: waqar_hassan_khan.jpeg
-    short_bio: Waqar started his ph.d. on fall-22.
-    bio_link: waqar-hassan-khan.html
-    bio: "Waqar's bio"
-    social:
-      - title: envelope
-        url: mailto:wkhan17@asu.edu
-        link_to_show: wkhan17@asu.edu
-      - title: twitter
-        url: https://twitter.com/Waqar_107
-        link_to_show: '@Waqar_107'
-      - title: globe
-        url: https://waqar-107.github.io/portfolio/#/
-        link_to_show: https://waqar-107.github.io
-      - title: github
-        url: https://github.com/Waqar-107
-        link_to_show: Waqar-107
+    details_link: waqar-hassan-khan
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
