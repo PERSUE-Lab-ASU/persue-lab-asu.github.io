@@ -19,12 +19,8 @@ title: "Team"
   <a href="https://twitter.com/rakib062" target="_blank" class="team-social-container-link">@rakib062</a>
 </div>
 <div class="team-social-container">
-  <i class="fa fa-graduation-cap"></i>
-  <a href="https://scholar.google.com/citations?user=EuZ5pnwAAAAJ&hl=en" target="_blank" class="team-social-container-link">Google scholar</a>
-</div>
-<div class="team-social-container">
   <i class="fa fa-globe"></i>
-  <a href="https://rakib062.github.io/" target="_blank" class="team-social-container-link">https://rakib062.github.io</a>
+  <a href="https://scholar.google.com/citations?user=EuZ5pnwAAAAJ&hl=en" target="_blank" class="team-social-container-link">Google scholar</a>
 </div>
 
 <div class="hline mt-10"></div>
