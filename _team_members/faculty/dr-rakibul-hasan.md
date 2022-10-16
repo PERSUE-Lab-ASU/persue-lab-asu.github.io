@@ -30,4 +30,6 @@ I direct the PERSUE lab.
 
 I am an assistant professor in the School of Computing and Augmented Intelligence at ASU. I am also affiliated with the [Cybersecurity and Trusted Foundations](https://globalsecurity.asu.edu/expertise/cybersecurity-and-trusted-foundations/)
 
+My research interests overlap with (usable) privacy and security, artificial intelligence, decision making, and internet measurement.
+
 I completed my Ph.D. in Computer Science from Indiana University Bloomington in 2020, advised by Prof. Apu Kapadia. Before Joining ASU, I was a postdoctoral researcher at CISPA Helmholtz Center for Information Security.
