@@ -19,6 +19,10 @@ title: "Team"
   <a href="https://twitter.com/rakib062" target="_blank" class="team-social-container-link">@rakib062</a>
 </div>
 <div class="team-social-container">
+  <i class="fa fa-google-scholar"></i>
+  <a href="https://scholar.google.com/citations?user=EuZ5pnwAAAAJ/" target="_blank" class="team-social-container-link">Google scholar</a>
+</div>
+<div class="team-social-container">
   <i class="fa fa-globe"></i>
   <a href="https://rakib062.github.io/" target="_blank" class="team-social-container-link">https://rakib062.github.io</a>
 </div>
@@ -30,6 +34,4 @@ I direct the PERSUE lab.
 
 I am an assistant professor in the School of Computing and Augmented Intelligence at ASU. I am also affiliated with the [Cybersecurity and Trusted Foundations](https://globalsecurity.asu.edu/expertise/cybersecurity-and-trusted-foundations/)
 
-My research interests overlap with (usable) privacy and security, artificial intelligence, decision making, and internet measurement.
-
-I completed my Ph.D. in Computer Science from Indiana University Bloomington in 2020, advised by Prof. Apu Kapadia. Before Joining ASU, I was a postdoctoral researcher at CISPA Helmholtz Center for Information Security.
+My research interests overlap with (usable) privacy and security, artificial intelligence, decision making, and internet measurement. I completed my Ph.D. in Computer Science from Indiana University Bloomington in 2020, advised by Prof. Apu Kapadia. Before Joining ASU, I was a postdoctoral researcher at CISPA Helmholtz Center for Information Security.
