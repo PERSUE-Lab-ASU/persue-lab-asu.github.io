@@ -19,8 +19,8 @@ title: "Team"
   <a href="https://twitter.com/rakib062" target="_blank" class="team-social-container-link">@rakib062</a>
 </div>
 <div class="team-social-container">
-  <i class="fa fa-google-scholar"></i>
-  <a href="https://scholar.google.com/citations?user=EuZ5pnwAAAAJ/" target="_blank" class="team-social-container-link">Google scholar</a>
+  <i class="fa fa-graduation-cap"></i>
+  <a href="https://scholar.google.com/citations?user=EuZ5pnwAAAAJ&hl=en" target="_blank" class="team-social-container-link">Google scholar</a>
 </div>
 <div class="team-social-container">
   <i class="fa fa-globe"></i>
