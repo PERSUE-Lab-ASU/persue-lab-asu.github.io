@@ -1,9 +1,9 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: PrivatE, Reliable and SecUrE Computing Lab (PERSUE)
+title: PERSUE: PrivatE, Reliable and SecUrE Computing Lab
 title_abbreviation: PERSUE
-description: "Website for the Privacy and Security Lab, School of Computing and Augmented Intelligence at Arizona State University."
+description: "Website for the PERSUE Lab, School of Computing and Augmented Intelligence at Arizona State University."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://privacy-and-security-lab.github.io"
