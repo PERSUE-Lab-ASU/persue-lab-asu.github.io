@@ -570,6 +570,9 @@ a.anchor {
 	margin-bottom: 100px;
 }
 
+.white-bg {
+	background-color: white;
+}
 /***********************************************************/
 
 
@@ -669,7 +672,7 @@ a.anchor {
 }
 
 .home-lab-name-container-inner {
-	background-color: rgba(107, 107, 107, .8);
+	background-color: rgba(232, 223, 223, .85);
 	color: white;
 
 	height: auto;
@@ -688,30 +691,37 @@ a.anchor {
 	font-size: 45px;
 	font-weight: bold;
 	margin-bottom: 30px;
+
+	color: {{ site.colors.primary }};
 }
 
 .home-lab-moto {
 	font-size: 1.75em;
+	color: {{ site.colors.primary }};
+}
+
+.home-learn-more-container {
+	margin-top: 30px;
+	padding: 10px 20px;
+	background-color: white;
 }
 
 .home-learn-more {
-	margin-top: 30px;
-	padding: 10px;
-	border-radius: 10px;
-	background-color: {{ site.colors.primary }};
-	border: 0px;
+	color: {{ site.colors.primary }};
+	font-size: 1.75em;
 }
 
-.home-learn-more a {
-	color: white;
+.home-prospective-students-container {
+	margin-top: 15px;
+	padding: 10px 20px;
+	background-color: white;
+	text-decoration: underline;
 }
 
 .home-prospective-students {
-	margin-top: 15px;
-	background-color: white;
-	padding: 5px;
 	color: {{ site.colors.primary }};
 	font-size: 1.75em;
+	font-style: bolder;
 }
 /***********************************************************/
 
@@ -767,4 +777,17 @@ a.anchor {
 	.team-member-box {
 		padding-top: 50px;
 	}
+}
+
+.blink{
+	color: {{ site.colors.primary }};
+	animation: blink 1.75s linear infinite;
+}
+
+@keyframes blink{
+	0%{opacity: 0;}
+	25%{opacity: .25;}
+	50%{opacity: .5;}
+	75%{opacity: .75;}
+	100%{opacity: 1;}
 }
