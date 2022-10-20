@@ -19,10 +19,25 @@ permalink: /team
 			{% endfor %}
 		</div>
 	</div>
+	
 	<div class="row mb-50">
-		<div class="col-lg-12 team-head mb-25">Current Graduate Students</div>
+		<div class="col-lg-12 team-head mb-25">Current Ph.D. Students</div>
 		<div class="col-lg-12">
-			{% for member in site.current_grad_students %}
+			{% for member in site.current_phd_students %}
+			<div class="col-lg-3 col-md-3 col-sm-4 team-member-box">
+				<img class="team-member-img" src="{{ "/assets/img/members/graduate/" | prepend: site.baseurl}}{{ member.img }}" alt="">
+				<h4><a class="team-member-name" href="{{ member.details_link | prepend: "/team/" }}">{{ member.name }}</a></h4>
+				<h5 class="ctitle">{{ member.position }}</h5>
+				<div class="hline mt-10"></div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+
+	<div class="row mb-50">
+		<div class="col-lg-12 team-head mb-25">Current M.S. Students</div>
+		<div class="col-lg-12">
+			{% for member in site.current_ms_students %}
 			<div class="col-lg-3 col-md-3 col-sm-4 team-member-box">
 				<img class="team-member-img" src="{{ "/assets/img/members/graduate/" | prepend: site.baseurl}}{{ member.img }}" alt="">
 				<h4><a class="team-member-name" href="{{ member.details_link | prepend: "/team/" }}">{{ member.name }}</a></h4>

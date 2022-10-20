@@ -54,7 +54,7 @@ faculty:
     details_link: dr-rakibul-hasan
 
 # Current graduate students
-current_grad_students:
+current_phd_students:
   - name: "Protik Bose Pranto"
     position: Ph.D. student
     img: protik_bose_pranto.jpg
@@ -63,6 +63,12 @@ current_grad_students:
     position: Ph.D. student
     img: waqar_hassan_khan.jpg
     details_link: waqar-hassan-khan
+
+current_ms_students:
+  - name: Tianyi Yang
+    position: Research Aide
+    img: tianyi_yang.jpg
+    details_link: tianyi-yang
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
