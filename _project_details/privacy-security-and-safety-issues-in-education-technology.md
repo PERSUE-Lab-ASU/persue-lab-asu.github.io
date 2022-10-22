@@ -3,7 +3,7 @@ layout: project_details
 title: Current Research Projects
 ---
 
-<img src="/assets/img/projects/edtech.png" alt="" class="project-individual-img mb-25" />
+<img src="/assets/img/projects/edtech.jpg" alt="" class="project-individual-img mb-25" />
 
 ### Privacy, Security, and Safety issues in Education Technology
 

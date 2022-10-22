@@ -3,7 +3,7 @@ layout: project_details
 title: Current Research Projects
 ---
 
-<img src="/assets/img/projects/privacy-on-social-platforms.png" alt="" class="project-individual-img mb-25" />
+<img src="/assets/img/projects/fake-news.jpg" alt="" class="project-individual-img mb-25" />
 
 ### Understanding and preventing fake news propagation
 
