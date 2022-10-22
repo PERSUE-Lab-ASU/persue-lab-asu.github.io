@@ -3,6 +3,7 @@ layout: prospective-students
 title: Prospective Students
 permalink: /prospective-students
 ---
+<font size="5">
 
 **Our team is growing! We are looking for teammates interested in doing a PhD focusing on privacy or security.**
 
@@ -17,4 +18,6 @@ Below are some reasons why you might consider coming here:
   
 If you are a masters or undergraduate student and interested in getting research experience, you are also welcome to join us.
 
-All prospective students, please email your resume, transcripts, and a short description of your research interest and how that aligns with the goals of our lab to rakibul.hasan@asu.edu.
+*All prospective students, please email your resume, transcripts, and a short description of your research interest and how that aligns with the goals of our lab to rakibul.hasan@asu.edu*.
+
+  </font>

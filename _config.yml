@@ -32,9 +32,9 @@ collections:
 
 # Projects
 projects:
-  - name: "Thwarting the dissemination of misinformation through online platforms"
+  - name: "Understanding-and-preventing-fake-news-propagation"
     img: "privacy-on-social-platforms.png"
-    link: "thwarting-the-dissemination-of-misinformation-through-online-platforms"
+    link: "Understanding-and-preventing-fake-news-propagation"
   - name: "Privacy, Security, and Safety issues in Education Technology"
     img: "edtech.png"
     link: "privacy-security-and-safety-issues-in-education-technology"
