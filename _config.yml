@@ -33,10 +33,10 @@ collections:
 # Projects
 projects:
   - name: "Understanding-and-preventing-fake-news-propagation"
-    img: "privacy-on-social-platforms.png"
+    img: "fake-news.jpg"
     link: "Understanding-and-preventing-fake-news-propagation"
   - name: "Privacy, Security, and Safety issues in Education Technology"
-    img: "edtech.png"
+    img: "edtech.jpg"
     link: "privacy-security-and-safety-issues-in-education-technology"
   - name: "Privacy on social platforms"
     img: "privacy-on-social-platforms.png"
