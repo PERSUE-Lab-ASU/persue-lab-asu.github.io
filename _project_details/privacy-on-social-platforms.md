@@ -3,7 +3,7 @@ layout: project_details
 title: Current Research Projects
 ---
 
-<img src="/assets/img/projects/privacy-on-social-platforms.png" alt="" class="project-individual-img mb-25" />
+<img src="/assets/img/projects/social_media.jpg" alt="" class="project-individual-img mb-25" />
 
 ### Privacy on social platforms
 
