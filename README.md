@@ -17,7 +17,7 @@
       details_link: "Name of your personal file without the extension. This file will be created in step-3"
   ```
 
-3. In the folder `_team_members` add your personal page in the appropriate directory, e.g. graduate, undergrad. Copy this [template]("_team_members/template-for-new-member.markdown"), rename and update with your information.
+3. In the folder `_team_members` add your personal page in the appropriate directory, e.g. graduate, undergrad. Copy this [template]("https://github.com/PERSUE-Lab-ASU/persue-lab-asu.github.io/blob/master/_team_members/template-for-new-member.markdown"), rename and update with your information.
 
 This is a modified verion of **Solid. A Bootstrap theme for Jekyll**
 
