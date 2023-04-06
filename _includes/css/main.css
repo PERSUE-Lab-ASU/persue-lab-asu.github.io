@@ -773,6 +773,32 @@ a.anchor {
 /***********************************************************/
 
 
+/***********************************************************/
+/* news */
+.news {
+	font-size: 18px;
+}
+
+.news-link {
+	color: {{ site.colors.primary }};
+}
+
+.news-box{
+	border: 1px solid {{ site.colors.primary }};
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.news-date{
+	font-weight: bold;
+	text-align: right;
+	margin-top: 25px;
+	font-size: 18px;
+	color: {{ site.colors.primary }};
+}
+/***********************************************************/
+
+
 @media (max-width: 767px) {
 	.team-member-box {
 		padding-top: 50px;
