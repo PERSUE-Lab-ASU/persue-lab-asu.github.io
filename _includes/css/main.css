@@ -723,6 +723,16 @@ a.anchor {
 	font-size: 1.75em;
 	font-style: bolder;
 }
+
+.home-recent-news{
+	background: white;
+	padding: 5%;
+	width: 100%;
+}
+
+.home-recent-news-link{
+	color: {{ site.colors.primary }};
+}
 /***********************************************************/
 
 
