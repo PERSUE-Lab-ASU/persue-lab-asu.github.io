@@ -1,29 +1,42 @@
 <div class="home-lab-name-container">
-	<div class="container centered home-lab-name-container-inner">
-		<div class="home-lab-name">{{ site.title }}</div>
+	<div class="container centered">
+		<img src="{{ "../assets/img/lab-name.svg" | prepend: site.baseurl}}" alt="none" class="home-lab-name">
+	</div>
+
+	<!-- about -->
+	<div class="about-container">
+		<h2 style="text-align: center;">About the PERSUE</h2>
+		<div class="flex-centered">
+			<hr class="red-underline"/>
+		</div>
 		<div class="home-lab-moto">
 			We aim to enhance the privacy, security, and reliability of computing technologies. Our research activities identify and understand privacy, security, and reliability issues with information technologies and explore mitigation strategies toward a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from AI and Machine Learning, Internet Measurement, Cognitive Psychology, and Statistical Causal Inference methodologies to solve the identified problems.
 		</div>
-		<div class="home-learn-more-container">
-			<a class="home-learn-more" href="/projects">Learn more about our research</a>
+	</div>
+
+	<!-- research opportunities -->
+	<div class="research-container">
+		<h2 style="text-align: center;">Research Opportunities</h2>
+		<div class="flex-centered"><hr class="red-underline"/></div>
+		<div>
+			We are always looking for motivated student researchers at all levels (Ph.D., M.S., and undergraduate).
+			If you are interested in joining our team, check out our projects.
 		</div>
-		<div class="home-prospective-students-container">
-			<a href="/prospective-students" class="home-prospective-students">
-			If you are interested in joining our team, check this out!!
-			</a>
+		<div class="flex-centered" style="margin-top: 15px">
+			<a class="research-opportunities" href="/projects" style="margin-right: 10px;">Our Research</a>
+			<a class="research-opportunities" href="/prospective-students">Join the Lab</a>
 		</div>
 	</div>
 
-	<!-- recent news -->
-	<div class="container news home-recent-news">
-		<h1>Recent News</h1>
-		<div class="row mb-50 news-box">
-			<div class="col-lg-12">
-				Protik's paper entitled <a class="news-link" href="https://cornell.app.box.com/s/h1442ce40mva2e4mwzfcinka407v7zf6" target="_blank"><b>From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency</b></a> got accepted on <a href="https://designpolicy.one/accepted.html" target="_blank" class="news-link">Design x Policy</a> A CHI'23 workshop
+		<!-- recent news -->
+		<div class="recent-container-home">
+			<h2 style="text-align: center;">Recent News</h2>
+			<div class="flex-centered"><hr class="red-underline"/></div>
+
+			<div class="row mb-50">
+				<div class="col-lg-12">
+					<p><b class="recent-news-date">11/2023</b> Protik's paper entitled <a class="news-link" href="https://cornell.app.box.com/s/h1442ce40mva2e4mwzfcinka407v7zf6" target="_blank"><b>From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency</b></a> got accepted on <a href="https://designpolicy.one/accepted.html" target="_blank" class="news-link">Design x Policy</a> A CHI'23 workshop</p>
+				</div>
 			</div>
-			<div class="col-lg-12 news-date">Mar 11, 2023</div>
 		</div>
-		<a href="/news" class="home-recent-news-link"><b>See more</b></a>
-	</div>
 </div>
-

@@ -27,7 +27,7 @@ body {
 	height: 100%;
 
 	color: {{ site.colors.secondary }};
-	font-family: 'Lato',
+	font-family: 'Source Sans Pro',
 	sans-serif;
 	font-weight: 400;
 }
@@ -45,7 +45,7 @@ h6 {
 p {
 	padding: 0;
 	margin-bottom: 12px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
@@ -660,7 +660,7 @@ a.anchor {
 .home-lab-name-container {
 	min-height: calc(100vh - 70px);
 	margin-top: 70px;
-	background: url(../img/brickyard.jpg) no-repeat center center fixed;
+	/* background: url(../img/brickyard.jpg) no-repeat center center fixed; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -669,59 +669,12 @@ a.anchor {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-}
-
-.home-lab-name-container-inner {
-	background-color: rgba(232, 223, 223, .85);
-	color: white;
-
-	height: auto;
-	width: 100%;
-
 	padding: 5%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	align-content: center;
-}
-
-.home-lab-name {
-	font-family: 'Comic Neue', 'Cabin Sketch', cursive;
-	font-size: 45px;
-	font-weight: bold;
-	margin-bottom: 30px;
-
-	color: {{ site.colors.primary }};
 }
 
 .home-lab-moto {
-	font-size: 1.75em;
-	color: {{ site.colors.primary }};
-}
-
-.home-learn-more-container {
-	margin-top: 30px;
-	padding: 10px 20px;
-	background-color: white;
-}
-
-.home-learn-more {
-	color: {{ site.colors.primary }};
-	font-size: 1.75em;
-}
-
-.home-prospective-students-container {
-	margin-top: 15px;
-	padding: 10px 20px;
-	background-color: white;
-	text-decoration: underline;
-}
-
-.home-prospective-students {
-	color: {{ site.colors.primary }};
-	font-size: 1.75em;
-	font-style: bolder;
+	font-size: 17px;
+	text-align: justify;
 }
 
 .home-recent-news{
@@ -732,6 +685,36 @@ a.anchor {
 
 .home-recent-news-link{
 	color: {{ site.colors.primary }};
+}
+
+
+.about-container {
+	margin-top: 70px;
+}
+
+.research-container {
+	margin-top: 70px;
+	padding: 5%;
+	background-color: #E7ECF2;
+}
+
+.recent-container-home {
+	margin-top: 70px;
+	text-align: justify;
+}
+
+.research-opportunities, .research-opportunities:hover {
+	padding: 6px 12px;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	background-color: {{ site.colors.primary }};
+}
+
+.recent-news-date {
+	color: white;
+	padding: 5px;
+	background-color: {{ site.colors.primary }};;
 }
 /***********************************************************/
 
@@ -809,8 +792,36 @@ a.anchor {
 /***********************************************************/
 
 
+/***********************************************************/
+/* common */
+.red-underline {
+	margin-top: 5px;
+	margin-bottom: 15px;
+	height: 3px;
+	width: 100%;
+	max-width: 100px;
+	background: {{ site.colors.primary }};
+	border: 0px;
+}
+
+.flex-centered{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
 @media (max-width: 767px) {
 	.team-member-box {
 		padding-top: 50px;
+	}
+}
+
+@media (max-width: 767px) {
+	.home-lab-name {
+		width: 100%;
+		height: auto;
 	}
 }
