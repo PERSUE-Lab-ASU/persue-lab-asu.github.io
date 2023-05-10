@@ -695,6 +695,8 @@ a.anchor {
 .research-container {
 	margin-top: 70px;
 	padding: 5%;
+	padding-top: 1%;
+	font-size: 17px;
 	background-color: #E7ECF2;
 }
 
@@ -715,6 +717,10 @@ a.anchor {
 	color: white;
 	padding: 5px;
 	background-color: {{ site.colors.primary }};;
+}
+
+.recent-news-text {
+	font-size: 17px;
 }
 /***********************************************************/
 
