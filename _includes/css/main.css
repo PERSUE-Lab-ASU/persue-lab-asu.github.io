@@ -662,18 +662,13 @@ a.anchor {
 /***********************************************************/
 /* home */
 .lab-name {
-	color: #9D2235;
+	color: {{ site.colors.primary }};
 	font-size: 4.5rem;
 }
 
 .home-lab-name-container {
 	min-height: calc(100vh - 70px);
 	margin-top: 70px;
-	/* background: url(../img/brickyard.jpg) no-repeat center center fixed; */
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 
 	display: flex;
 	flex-direction: column;
@@ -783,13 +778,11 @@ a.anchor {
 
 /***********************************************************/
 /* news */
-.news {
+/* .news {
 	font-size: 18px;
 }
 
-.news-link {
-	color: {{ site.colors.primary }};
-}
+
 
 .news-box{
 	border: 1px solid {{ site.colors.primary }};
@@ -803,6 +796,25 @@ a.anchor {
 	margin-top: 25px;
 	font-size: 18px;
 	color: {{ site.colors.primary }};
+} */
+.news-container {
+	margin-top: 70px;
+	text-align: justify;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+}
+
+.news-link {
+	color: {{ site.colors.primary }};
+}
+
+.news-line {
+	background: {{ site.colors.primary }};
+	height: 1.5px;
 }
 /***********************************************************/
 
