@@ -4,7 +4,7 @@ title: "Team"
 ---
 
 <!-- Put your own picture in the appropriate directory and change the src below -->
-<img src="/assets/img/members/graduate/tianyi_yang.jpg" alt="" class="team-individual-img" />
+<img src="/assets/img/members/former/tianyi_yang.jpg" alt="" class="team-individual-img" />
 
 <!-- Write your name in the following line -->
 ### Tianyi Yang

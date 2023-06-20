@@ -570,6 +570,10 @@ a.anchor {
 	margin-bottom: 100px;
 }
 
+.mt-100 {
+	margin-top: 100px;
+}
+
 .white-bg {
 	background-color: white;
 }
@@ -657,6 +661,11 @@ a.anchor {
 
 /***********************************************************/
 /* home */
+.lab-name {
+	color: #9D2235;
+	font-size: 4.5rem;
+}
+
 .home-lab-name-container {
 	min-height: calc(100vh - 70px);
 	margin-top: 70px;

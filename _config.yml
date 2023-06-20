@@ -65,7 +65,7 @@ current_phd_students:
     details_link: waqar-hassan-khan
 
 current_ms_students:
-  - name: Tianyi Yang
+  - name: dummy student
     position: Research Aide
     img: tianyi_yang.jpg
     details_link: tianyi-yang
@@ -77,6 +77,11 @@ current_undergrad_students:
     img: "easton_kelso.jpg"
     details_link: "easton-kelso"
 
+former_students:
+  - name: Tianyi Yang
+    position: Research Aide
+    img: tianyi_yang.jpg
+    details_link: tianyi-yang
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We aim to enhance the privacy, security, and reliability of computing technologies. Our research activities identify and understand privacy, security, and reliability issues with information technologies and explore mitigation strategies toward a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from AI and Machine Learning, Internet Measurement, Cognitive Psychology, and Statistical Causal Inference methodologies to solve the identified problems."
