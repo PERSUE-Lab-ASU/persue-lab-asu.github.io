@@ -691,6 +691,19 @@ a.anchor {
 	color: {{ site.colors.primary }};
 }
 
+.see_more_container {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.see_more{
+	margin-top: 25px;
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: {{ site.colors.primary }};
+}
 
 .about-container {
 	margin-top: 70px;
@@ -701,7 +714,7 @@ a.anchor {
 	padding: 5%;
 	padding-top: 1%;
 	font-size: 17px;
-	background-color: #E7ECF2;
+	/* background-color: #E7ECF2; */
 }
 
 .recent-container-home {
@@ -853,5 +866,11 @@ a.anchor {
 	.home-lab-name {
 		width: 100%;
 		height: auto;
+	}
+}
+
+@media (max-width: 492px) {
+	.research-opportunity_btn {
+		margin-bottom: 15px;
 	}
 }
