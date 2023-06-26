@@ -574,6 +574,14 @@ a.anchor {
 	margin-top: 100px;
 }
 
+.mr-25 {
+	margin-right: 25px;
+}
+
+.mr-5 {
+	margin-right: 5px;
+}
+
 .white-bg {
 	background-color: white;
 }
@@ -793,26 +801,6 @@ a.anchor {
 
 
 /***********************************************************/
-/* news */
-/* .news {
-	font-size: 18px;
-}
-
-
-
-.news-box{
-	border: 1px solid {{ site.colors.primary }};
-	padding-top: 15px;
-	padding-bottom: 15px;
-}
-
-.news-date{
-	font-weight: bold;
-	text-align: right;
-	margin-top: 25px;
-	font-size: 18px;
-	color: {{ site.colors.primary }};
-} */
 .news-container {
 	margin-top: 70px;
 	text-align: justify;
@@ -835,6 +823,57 @@ a.anchor {
 /***********************************************************/
 
 
+/***********************************************************/
+/* publication */
+.publication-year {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.publication-name-container {
+	margin-bottom: 15px;
+}
+
+.publication-name {
+	font-size: 16px;
+	color: {{ site.colors.primary }};
+}
+
+.publication-name:hover{
+	text-decoration: underline;
+}
+
+.publication-author {
+	margin-bottom: 3px;
+}
+
+.poster-image {
+	margin-top: 25px;
+	width: 50%;
+	height: auto;
+
+	object-fit: cover;
+	object-position: center;
+}
+
+.publication-media-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-content: center;
+	align-items: center;
+}
+
+.publication-icon {
+	height: 15px;
+	width: 15px;
+}
+
+.publication-link {
+	font-weight: bold;
+	text-decoration: underline;
+	color: {{ site.colors.primary }};
+}
 /***********************************************************/
 /* common */
 .red-underline {
@@ -872,5 +911,12 @@ a.anchor {
 @media (max-width: 492px) {
 	.research-opportunity_btn {
 		margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 720px) {
+	.poster-image {
+		width: 100%;
+		height: auto;
 	}
 }

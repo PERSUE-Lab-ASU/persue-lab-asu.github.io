@@ -91,3 +91,34 @@ testimonial:
     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
     author: Marcel Newman
     position: WEB DESIGNER - BLACKTIE.CO
+
+
+# publication-list
+publications:
+  - type: poster
+    name: "Exploring Privacy and Security Concerns of EdTech Users: A Qualitative Analysis of User Written Reviews"
+    authors: "Waqar Hassan Khan, Protik Bose Pranto, Tianyi Yang, Rakibul Hasan"
+    year: 2023
+    venue_full_name: "Nineteenth Symposium on Usable Privacy and Security"
+    venue_short_name: "SOUPS'23"
+    paper_link: "SOUPS_23_poster_edtech/abstract.pdf"
+    poster_link: "SOUPS_23_poster_edtech/poster.pdf"
+    poster_image_link: "SOUPS_23_poster_edtech/poster.jpg"
+  
+  - type: poster
+    name: "Understanding the Effect of Private Data in Disinformation Propagation"
+    authors: "Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan"
+    year: 2023
+    venue_full_name: "Nineteenth Symposium on Usable Privacy and Security"
+    venue_short_name: "SOUPS'23"
+    paper_link: "SOUPS_23_poster_misinfo/abstract.pdf"
+    poster_link: "SOUPS_23_poster_misinfo/poster.pdf"
+    poster_image_link: "SOUPS_23_poster_misinfo/poster.jpg"
+
+  - type: paper
+    name: "From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency"
+    authors: "Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan"
+    year: 2023
+    venue_full_name: "Designing Technology and Policy Simultaneously: Towards A Research Agenda and New Practice"
+    venue_short_name: "CHI'23 Workshop"
+    paper_link: "CHI_23_Design_Policy_misinfo.pdf"
