@@ -739,9 +739,8 @@ a.anchor {
 }
 
 .recent-news-date {
-	color: white;
-	padding: 5px;
-	background-color: {{ site.colors.primary }};;
+	font-size: 16px;
+	font-weight: bold;
 }
 
 .recent-news-text {
