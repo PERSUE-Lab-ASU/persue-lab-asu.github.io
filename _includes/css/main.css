@@ -836,6 +836,10 @@ td, th {
 	background: {{ site.colors.primary }};
 	height: 1.5px;
 }
+
+.news-row {
+	margin-bottom: 35px;
+}
 /***********************************************************/
 
 
