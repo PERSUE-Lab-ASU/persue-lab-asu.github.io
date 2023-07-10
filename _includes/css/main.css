@@ -558,6 +558,10 @@ a.anchor {
 	margin-top: 20px;
 }
 
+.mt-25 {
+	margin-top: 25px;
+}
+
 .mb-25 {
 	margin-bottom: 25px;
 }
@@ -801,17 +805,8 @@ a.anchor {
 	object-position: center;
 }
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-	align-items: start;
-  padding: 8px;
+.paper-section {
+	margin-bottom: 50px;
 }
 /***********************************************************/
 
