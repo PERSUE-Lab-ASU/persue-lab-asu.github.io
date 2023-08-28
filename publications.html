@@ -25,7 +25,7 @@ permalink: /publications
         <div class="publication-media-container mb-25 mt-20">
           <img class="publication-icon mr-5" src="./assets/img/icons/analysis.png" alt=""/>
           <a class="publication-link mr-25" href="{{ paper.paper_link | prepend: "/assets/publications/" }}" target="_blank">
-            {% if paper.type == "poster" %}Abstract{% endif %}
+            {% if paper.type == "poster" %}Abstract (pre-print){% endif %}
             {% if paper.type == "paper" %}Paper{% endif %}
           </a>
           {% if paper.type == "poster" %}
