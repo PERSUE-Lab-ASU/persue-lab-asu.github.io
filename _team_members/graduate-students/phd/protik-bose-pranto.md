@@ -4,7 +4,7 @@ title: "Team"
 ---
 
 <!-- Put your own picture in the appropriate directory and change the src below -->
-<img src="/assets/img/members/graduate/protik_bose_pranto.jpg" alt="" class="team-individual-img" />
+<img src="/assets/img/members/graduate/phd/protik_bose_pranto.jpg" alt="" class="team-individual-img" />
 
 <!-- Write your name in the following line -->
 ### Protik Bose Pranto

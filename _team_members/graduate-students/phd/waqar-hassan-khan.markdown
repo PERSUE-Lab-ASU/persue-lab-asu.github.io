@@ -3,7 +3,7 @@ layout: team_member
 title: "Team"
 ---
 
-<img src="/assets/img/members/graduate/waqar_hassan_khan.jpg" alt="" class="team-individual-img" />
+<img src="/assets/img/members/graduate/phd/waqar_hassan_khan.jpg" alt="" class="team-individual-img" />
 
 ### Waqar Hassan Khan
 
