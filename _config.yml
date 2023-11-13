@@ -84,6 +84,10 @@ current_undergrad_students:
     position: "Undergrad Researcher"
     img: "easton_kelso.jpg"
     details_link: "easton-kelso"
+  - name: "Sanskar Srivastava"
+    position: "Undergrad Researcher"
+    img: "sanskar_srivastava.jpg"
+    details_link: "sanskar-srivastava"
 
 former_students:
   - name: Tianyi Yang
