@@ -27,7 +27,7 @@ body {
 	height: 100%;
 
 	color: {{ site.colors.secondary }};
-	font-family: 'Lato',
+	font-family: 'Source Sans Pro',
 	sans-serif;
 	font-weight: 400;
 }
@@ -45,7 +45,7 @@ h6 {
 p {
 	padding: 0;
 	margin-bottom: 12px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
@@ -70,7 +70,7 @@ ol {
 }
 
 a {
-	color: {{ site.colors.link }};
+	color: {{ site.colors.primary }};
 	padding: 0;
 	margin: 0;
 	text-decoration: none;
@@ -558,6 +558,10 @@ a.anchor {
 	margin-top: 20px;
 }
 
+.mt-25 {
+	margin-top: 25px;
+}
+
 .mb-25 {
 	margin-bottom: 25px;
 }
@@ -568,6 +572,22 @@ a.anchor {
 
 .mb-100 {
 	margin-bottom: 100px;
+}
+
+.mt-100 {
+	margin-top: 100px;
+}
+
+.mt-50 {
+	margin-top: 50px;
+}
+
+.mr-25 {
+	margin-right: 25px;
+}
+
+.mr-5 {
+	margin-right: 5px;
 }
 
 .white-bg {
@@ -657,71 +677,82 @@ a.anchor {
 
 /***********************************************************/
 /* home */
+.lab-name {
+	color: {{ site.colors.primary }};
+	font-size: 4.5rem;
+}
+
 .home-lab-name-container {
 	min-height: calc(100vh - 70px);
 	margin-top: 70px;
-	background: url(../img/brickyard.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-}
-
-.home-lab-name-container-inner {
-	background-color: rgba(232, 223, 223, .85);
-	color: white;
-
-	height: auto;
-	width: 100%;
-
 	padding: 5%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	align-content: center;
-}
-
-.home-lab-name {
-	font-family: 'Comic Neue', 'Cabin Sketch', cursive;
-	font-size: 45px;
-	font-weight: bold;
-	margin-bottom: 30px;
-
-	color: {{ site.colors.primary }};
 }
 
 .home-lab-moto {
-	font-size: 1.75em;
+	font-size: 17px;
+	text-align: justify;
+}
+
+.home-recent-news{
+	background: white;
+	padding: 5%;
+	width: 100%;
+}
+
+.home-recent-news-link{
 	color: {{ site.colors.primary }};
 }
 
-.home-learn-more-container {
-	margin-top: 30px;
-	padding: 10px 20px;
-	background-color: white;
+.see_more_container {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
 }
 
-.home-learn-more {
-	color: {{ site.colors.primary }};
-	font-size: 1.75em;
-}
-
-.home-prospective-students-container {
-	margin-top: 15px;
-	padding: 10px 20px;
-	background-color: white;
+.see_more{
+	margin-top: 25px;
+	font-size: 17px;
+	font-weight: bold;
 	text-decoration: underline;
+	color: {{ site.colors.primary }};
 }
 
-.home-prospective-students {
-	color: {{ site.colors.primary }};
-	font-size: 1.75em;
-	font-style: bolder;
+.about-container {
+	margin-top: 70px;
+}
+
+.research-container {
+	margin-top: 70px;
+	padding: 5%;
+	padding-top: 1%;
+	font-size: 17px;
+	/* background-color: #E7ECF2; */
+}
+
+.recent-container-home {
+	margin-top: 70px;
+	text-align: justify;
+}
+
+.research-opportunities, .research-opportunities:hover {
+	padding: 6px 12px;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	background-color: {{ site.colors.primary }};
+}
+
+.recent-news-date {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.recent-news-text {
+	font-size: 17px;
 }
 /***********************************************************/
 
@@ -749,12 +780,15 @@ a.anchor {
 }
 
 .project-box {
-	height: 350px;
+	height: 380px;
 	width: 100%;
-	padding: 25px;
-	border: 3px solid {{ site.colors.primary }};
-	margin-bottom: 25px;
-	border-radius: 15px
+	padding: 30px;
+  background-color: #ffffff;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+  margin-bottom: 15px;
+  box-shadow: 0px 10px 20px 0px rgba(84,117,145,.1), 0px -10px 20px 0px rgba(84,117,145,.1);
+  transition: all .3s ease-in-out;
 }
 
 .project-row {
@@ -770,8 +804,111 @@ a.anchor {
 	object-fit: cover;
 	object-position: center;
 }
+
+.paper-section {
+	margin-bottom: 50px;
+}
 /***********************************************************/
 
+
+/***********************************************************/
+.news-container {
+	margin-top: 70px;
+	text-align: justify;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+}
+
+.news-link {
+	color: {{ site.colors.primary }};
+}
+
+.news-line {
+	background: {{ site.colors.primary }};
+	height: 1.5px;
+}
+
+.news-row {
+	margin-bottom: 35px;
+}
+/***********************************************************/
+
+
+/***********************************************************/
+/* publication */
+.publication-year {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.publication-name-container {
+	margin-bottom: 15px;
+}
+
+.publication-name {
+	font-size: 16px;
+	color: {{ site.colors.primary }};
+}
+
+.publication-name:hover{
+	text-decoration: underline;
+}
+
+.publication-author {
+	margin-bottom: 3px;
+}
+
+.poster-image {
+	margin-top: 25px;
+	width: 50%;
+	height: auto;
+
+	object-fit: cover;
+	object-position: center;
+}
+
+.publication-media-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-content: center;
+	align-items: center;
+}
+
+.publication-icon {
+	height: 25px;
+	width: 25px;
+}
+
+.publication-link {
+	font-weight: bold;
+	text-decoration: underline;
+	color: {{ site.colors.primary }};
+}
+/***********************************************************/
+/* common */
+.red-underline {
+	margin-top: 5px;
+	margin-bottom: 15px;
+	height: 3px;
+	width: 100%;
+	max-width: 100px;
+	background: {{ site.colors.primary }};
+	border: 0px;
+}
+
+.flex-centered{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
 
 @media (max-width: 767px) {
 	.team-member-box {
@@ -779,15 +916,22 @@ a.anchor {
 	}
 }
 
-.blink{
-	color: {{ site.colors.primary }};
-	animation: blink 1.75s linear infinite;
+@media (max-width: 767px) {
+	.home-lab-name {
+		width: 100%;
+		height: auto;
+	}
 }
 
-@keyframes blink{
-	0%{opacity: 0;}
-	25%{opacity: .25;}
-	50%{opacity: .5;}
-	75%{opacity: .75;}
-	100%{opacity: 1;}
+@media (max-width: 492px) {
+	.research-opportunity_btn {
+		margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 720px) {
+	.poster-image {
+		width: 100%;
+		height: auto;
+	}
 }
