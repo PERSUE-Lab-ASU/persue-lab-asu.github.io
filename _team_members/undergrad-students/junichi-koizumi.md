@@ -22,3 +22,4 @@ title: "Team"
 <div class="hline mt-10"></div>
 
 <!-- write your bio here, like you write in md files -->
+Hi, I'm Junichi Koizumi, a senior majoring in Computer Science. My current research focuses on privacy concerns in AI-based recruitment, blending cutting-edge technology with ethical considerations. Outside of academics, I'm an adventure enthusiast – you'll find me lifting weights, exploring underwater worlds through scuba diving, carving up slopes while snowboarding, or cheering at baseball games. 
