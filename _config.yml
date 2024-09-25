@@ -77,18 +77,32 @@ current_phd_students:
     position: Ph.D. student
     img: navid.jpg
     details_link: syed-zami-ul-haque-navid
+  - name: Khalid Alasiri
+    position: Ph.D. student 
+    img: Khalid.jpg 
 
 #current_ms_students:
+  - name: Sri Harsha Gajavalli
+    position: Masters student 
+    img: SriHarshaGajavalli-profilepic.png
 
 # Current undergrad students
 current_undergrad_students:
   - name: Easton Kelso
-    position: Undergrad Researcher
+    position: Undergrad Student
     img: easton_kelso.jpg
     details_link: easton-kelso
   - name: Junichi Koizumi
-    position: Undergrad Researcher
+    position: Undergrad Student
+    img: Junichi.jpeg
     details_link: junichi-koizumi
+  - name: Mrinaal Ramachandran
+    position: Undergraduate Student
+    img: Mrinaal.jpeg
+  - name: Saharsh Goenka
+    position: Undregraduate Student
+    img: saharsh.png
+    
 
 former_students:
   - name: Tianyi Yang
