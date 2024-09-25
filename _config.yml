@@ -80,11 +80,13 @@ current_phd_students:
   - name: Khalid Alasiri
     position: Ph.D. student 
     img: Khalid.jpg 
+    details_link: khalid-alasiri
 
 #current_ms_students:
   - name: Sri Harsha Gajavalli
     position: Masters student 
     img: SriHarshaGajavalli-profilepic.png
+    details_link: sri-harsha-gajavilli
 
 # Current undergrad students
 current_undergrad_students:
@@ -99,9 +101,11 @@ current_undergrad_students:
   - name: Mrinaal Ramachandran
     position: Undergraduate Student
     img: Mrinaal.jpeg
+    details_link: mrinaal-ramachandran
   - name: Saharsh Goenka
     position: Undregraduate Student
     img: saharsh.png
+    details_link: saharsh-goenka
     
 
 former_students:
