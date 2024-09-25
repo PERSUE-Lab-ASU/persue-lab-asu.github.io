@@ -9,13 +9,13 @@
 
 - name: Syed Zami-Ul-Haque Navid
   photo: navid.jpg
-  info: PhD researcher, started Fall 2024
+  info: PhD researcher 
   email: snavid2@asu.edu
   education1: PhD at Arizona State University
   education2:  BSc. in CSE from Bangladesh University of Engineering and Technology
 
 - name: Sri Harsha Gajavalli
-  photo: 
+  photo: SriHarshaGajavalli-profilepic.png
   info: Graduate Researcher 
   email: sgajaval@asu.edu 
   education1: Master, Arizona State University 
@@ -27,9 +27,27 @@
   education1: Undergraduate, Arizona State University 
   
 - name: Junichi Koizumi 
-  photo: 
+  photo: Junichi.jpeg
   info: undergraduate researcher 
   email: jkoizum1@asu.edu
-  education1: Undergradute, Arizona State University 
- 
+  education: Undergradute, Arizona State University 
+
+- name: Mrinaal Ramachandran
+ photo: Mrinaal.jpeg
+ info: Undergraduate Researcher 
+ email: mrinaalr@icloud.com
+ education: Undergraduate, Arizona State University 
+
+- name: Khalid Alasiri
+  photo: Khalid.jpg
+  info: Phd Researcher 
+  email: kalasir1@asu.edu
+  education: Phd, Arizona State University 
+
+- name: Saharsh Goenka
+  photo: saharsh.png
+  info: Undergraduate Researcher 
+  email: sgoenka1@asu.edu
+  education: Undergraduate, Arizona State University 
+  
 
