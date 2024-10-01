@@ -106,16 +106,10 @@ current_undergrad_students:
     position: Undregraduate Student
     img: saharsh.png
     details_link: saharsh-goenka
-    
+  - name: : Adit Prabhu
+    position : Undergraduate Student 
+    img : Adit_PFP1.jpeg
 
-
-  - name: "Easton Kelso"
-    position: "Undergrad Researcher"
-    img: "easton_kelso.jpg"
-    details_link: "easton-kelso"
-  - name: "Junichi Koizumi"
-    position: "Undergrad Researcher"
-    details_link: "junichi-koizumi"
  
 former_students:
   - name: Tianyi Yang
