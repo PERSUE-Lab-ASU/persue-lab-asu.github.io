@@ -22,7 +22,7 @@ Jump to [staff](#staff), [phd,master and bachelor students](#master-and-bachelor
 
 ## phd Master and Bachelor Students
 
-- name: Dr. Rakibul Hasan
+
 - name: Syed Zami-Ul-Haque Navid
   photo: navid.jpg
   info: PhD researcher 
