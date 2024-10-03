@@ -1,196 +1,76 @@
 ---
-title: "Allan Lab - Team"
+title: "PERSUE Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Persue Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [phd,master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+- name: Dr. Rakibul Hasan
+  photo: dr_rakibul_hasan.png
+  info: Director of Persue Lab. Associate professor in the School of Computing and Augmented Intelligence at ASU
+  Dr. Rakibul is also affiliated with <a href= "https://globalsecurity.asu.edu/expertise/cybersecurity-and-trusted-foundations/"> Cybersecurity and Trusted Foundations </a> and the <a href = "https://globalsecurity.asu.edu/expertise/human-artificial-intelligence-and-robot-teaming/">Human, Artificial Intelligence, and Robot Teaming </a> initiatives.
+  email: rhasan3@asu.edu
+  education1: Ph.D. in Computer Science from Indiana University Bloomington in 2020, advised by Prof. Apu Kapadia.
+  education2: postdoctoral researcher at <a href= "https://cispa.de/en"> CISPA Helmholtz Center for Information Security</a> 
+ 
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## phd Master and Bachelor Students
 
 
+- name: Syed Zami-Ul-Haque Navid
+  photo: navid.jpg
+  info: PhD researcher 
+  email: snavid2@asu.edu
+  education1: PhD at Arizona State University
+  education2:  BSc. in CSE from Bangladesh University of Engineering and Technology
 
+- name: Sri Harsha Gajavalli
+  photo: SriHarshaGajavalli-profilepic.png
+  info: Graduate Researcher 
+  email: sgajaval@asu.edu 
+  education1: Master, Arizona State University 
 
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
+- name: Easton Kelso 
+  photo: easton_kelso.jpg
+  info: undergraduate researcher 
+  email: eakelso@asu.edu
+  education1: Undergraduate, Arizona State University 
+  
+- name: Junichi Koizumi 
+  photo: Junichi.jpeg
+  info: undergraduate researcher 
+  email: jkoizum1@asu.edu
+  education: Undergradute, Arizona State University 
 
-{% assign even_odd = number_printed | modulo: 2 %}
+- name: Mrinaal Ramachandran
+ photo: Mrinaal.jpeg
+ info: Undergraduate Researcher 
+ email: mrinaalr@icloud.com
+ education: Undergraduate, Arizona State University 
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+- name: Khalid Alasiri
+  photo: Khalid.jpg
+  info: Phd Researcher 
+  email: kalasir1@asu.edu
+  education: Phd, Arizona State University 
 
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+- name: Saharsh Goenka
+  photo: saharsh.png
+  info: Undergraduate Researcher 
+  email: sgoenka1@asu.edu
+  education: Undergraduate, Arizona State University 
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+- name: Adit Prabhu
+  photo : Adit_PFP1.jpeg
+  info : Undergradute Researcher 
+  email : adprabh2@asu.edu
+  education : Undergraduate, Arizona State University 
+  
+ 
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
