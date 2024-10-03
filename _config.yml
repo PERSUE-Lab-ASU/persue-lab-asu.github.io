@@ -6,7 +6,7 @@ description: Website for the PERSUE Lab, School of Computing and Augmented
   Intelligence at Arizona State University.
 analytics: null #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: '' #important: start with /
-url: http://privacy-and-security-lab.github.io
+url: https://persue-lab-asu.github.io
 
 include:
   - .htaccess
