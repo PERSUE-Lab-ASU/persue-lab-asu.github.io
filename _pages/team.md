@@ -13,7 +13,7 @@ Jump to [staff](#staff), [phd,master and bachelor students](#master-and-bachelor
 ## Staff
 - name: Dr. Rakibul Hasan
 
-  photo: img/dr_rakibul_hasan.png
+  photo: <img src="img/dr_rakibul_hasan.png" alt="Dr. Rakibul Hasan">
   info: Director of Persue Lab. Associate professor in the School of Computing and Augmented Intelligence at ASU
   Dr. Rakibul is also affiliated with <a href= "https://globalsecurity.asu.edu/expertise/cybersecurity-and-trusted-foundations/"> Cybersecurity and Trusted Foundations </a> and the <a href = "https://globalsecurity.asu.edu/expertise/human-artificial-intelligence-and-robot-teaming/">Human, Artificial Intelligence, and Robot Teaming </a> initiatives.
   email: rhasan3@asu.edu
