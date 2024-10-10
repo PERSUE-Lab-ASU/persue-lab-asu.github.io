@@ -13,8 +13,8 @@ permalink: /publications/
 
 ## Full List of publications
 
-###name: 'Exploring Privacy and Security Concerns of EdTech Users: A Qualitative
-      Analysis of User Written Reviews'
+### name: 'Exploring Privacy and Security Concerns of EdTech Users: A Qualitative
+Analysis of User Written Reviews'
     authors: Waqar Hassan Khan, Protik Bose Pranto, Tianyi Yang, Rakibul Hasan
     year: 2023
     venue_full_name: Nineteenth Symposium on Usable Privacy and Security
@@ -91,7 +91,7 @@ permalink: /publications/
     year: 2022
     venue_full_name: The 22nd Privacy Enhancing Technologies Symposium
     venue_short_name: PETS 22
-    paper_link: https://petsymposium.org/popets/2022/popets-2022-0044.pdf
+    paper_link: <a href="https://petsymposium.org/popets/2022/popets-2022-0044.pdf"></a>
 
 
   name: Open-domain, content-based, multi-modal fact-checking of out-of-context
@@ -101,7 +101,7 @@ permalink: /publications/
     venue_full_name: Proceedings of the IEEE/CVF Conference on Computer Vision and
       Pattern Recognition
     venue_short_name: IEEE/CVF 22
-    paper_link: https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf
+    paper_link:<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf"> </a> 
 
 
   name: 'Your photo is so funny that i don’t mind violating your privacy by
@@ -112,7 +112,7 @@ permalink: /publications/
     venue_full_name: Proceedings of the 2021 CHI Conference on Human Factors in
       Computing Systems
     venue_short_name: CHI 21
-    paper_link: https://dl.acm.org/doi/pdf/10.1145/3411764.3445258
+    paper_link:<a href ="https://dl.acm.org/doi/pdf/10.1145/3411764.3445258"></a>
 
 
   name: Automatically detecting bystanders in photos to reduce privacy risks
@@ -120,7 +120,7 @@ permalink: /publications/
     year: 2020
     venue_full_name: IEEE Symposium on Security and Privacy 2020
     venue_short_name: IEEE S & P 20
-    paper_link: https://publications.cispa.saarland/3051/1/bystander-oakland-2020.pdf
+    paper_link:<a href= " https://publications.cispa.saarland/3051/1/bystander-oakland-2020.pdf"> </a>
 
  
   name: 'Influencing photo sharing decisions on social media: A case of
@@ -130,7 +130,7 @@ permalink: /publications/
     year: 2020
     venue_full_name: IEEE Symposium on Security and Privacy 2020
     venue_short_name: IEEE S & P 20
-    paper_link: https://par.nsf.gov/servlets/purl/10183400
+    paper_link: <a href= "https://par.nsf.gov/servlets/purl/10183400"></a>
 
  
   name: Reducing Privacy Risks in the Context of Sharing Photos Online
@@ -139,7 +139,7 @@ permalink: /publications/
     venue_full_name: Extended Abstracts of the 2020 CHI Conference on Human Factors
       in Computing Systems
     venue_short_name: CHI'20 (EA)
-    paper_link: https://drive.google.com/file/u/0/d/1bbDJc8BD0yg2EdLWjkW_AyWZJFfZDiJn/view
+    paper_link:<a href = " https://drive.google.com/file/u/0/d/1bbDJc8BD0yg2EdLWjkW_AyWZJFfZDiJn/view"> </a>
 
  
   name: Can privacy be satisfying? on improving viewer satisfaction for
@@ -150,7 +150,7 @@ permalink: /publications/
     venue_full_name: Proceedings of the 2019 CHI Conference on Human Factors in
       Computing Systems
     venue_short_name: CHI'19
-    paper_link: https://dl.acm.org/doi/pdf/10.1145/3290605.3300597
+    paper_link: <a href =">https://dl.acm.org/doi/pdf/10.1145/3290605.3300597"></a>
 
   
   name: Viewer experience of obscuring scene elements in photos to enhance privacy
@@ -160,7 +160,7 @@ permalink: /publications/
     venue_full_name: Proceedings of the 2018 CHI Conference on Human Factors in
       Computing Systems
     venue_short_name: CHI'18
-    paper_link: https://dl.acm.org/doi/pdf/10.1145/3173574.3173621
+    paper_link:<a href= "https://dl.acm.org/doi/pdf/10.1145/3173574.3173621"> </a>
 
 
   name: Cartooning for enhanced privacy in lifelogging and streaming videos
@@ -169,7 +169,8 @@ permalink: /publications/
     venue_full_name: Proceedings of the IEEE conference on computer vision and
       pattern recognition workshops
     venue_short_name: CVPR 17
-    paper_link: https://openaccess.thecvf.com/content_cvpr_2017_workshops/w16/papers/Kapadia_Cartooning_for_Enhanced_CVPR_2017_paper.pdf
+    paper_link: <a href =
+    "https://openaccess.thecvf.com/content_cvpr_2017_workshops/w16/papers/Kapadia_Cartooning_for_Enhanced_CVPR_2017_paper.pdf"></a>
 
  
   name: A novel approach for constructing emulator for Microsoft Kinect XBOX 360
