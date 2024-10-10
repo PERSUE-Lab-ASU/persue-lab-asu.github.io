@@ -13,10 +13,4 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist %}
-
-{{ publi.title }} 
-{{ publi.authors }} 
-{{ publi.link.display }}
-
-{% endfor %}
+[URL](https://publications.cispa.saarland/3930/1/VOPP_Hasan_et_al_2023.pdf)
