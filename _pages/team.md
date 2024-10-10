@@ -53,7 +53,7 @@ permalink: /team/
   education: Undergraduate, Arizona State University 
   
   name: Junichi Koizumi 
-  <img src="../img/Junichi.jpeg" alt="Junichi Koizumi" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
+  <img src="../img/Junichi .jpeg" alt="Junichi Koizumi" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
   info: undergraduate researcher 
   email: jkoizum1@asu.edu
   education: Undergradute, Arizona State University 
