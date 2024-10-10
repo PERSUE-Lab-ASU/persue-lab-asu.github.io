@@ -6,12 +6,10 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+ # Group Members
 
-Jump to [staff](#staff), [phd,master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
-- name: Dr. Rakibul Hasan
+ ## Staff
+ name: Dr. Rakibul Hasan
 <img src="../img/dr_rakibul_hasan.png" alt="Dr. Rakibul Hasan" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
 
   info: Director of Persue Lab. Associate professor in the School of Computing and Augmented Intelligence at ASU
@@ -21,53 +19,59 @@ Jump to [staff](#staff), [phd,master and bachelor students](#master-and-bachelor
   education2: postdoctoral researcher at <a href= "https://cispa.de/en"> CISPA Helmholtz Center for Information Security</a> 
  
 
-## phd Master and Bachelor Students
-
-
-- name: Syed Zami-Ul-Haque Navid
-  photo: navid.jpg
-  info: PhD researcher 
+  ## Phd students 
+  
+  name: Syed Zami-Ul-Haque Navid
+  <img src="../img/navid.jpg" alt="Syed Zami-Ul-Haque Navid" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
+  info: Phd researcher 
   email: snavid2@asu.edu
-  education1: PhD at Arizona State University
-  education2:  BSc. in CSE from Bangladesh University of Engineering and Technology
+  education: PhD at Arizona State University
 
-- name: Sri Harsha Gajavalli
-  photo: SriHarshaGajavalli-profilepic.png
-  info: Graduate Researcher 
+  name: Khalid Alasiri
+  <img src="../img/Khalid.jpg" alt="Khalid Alasiri" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
+  info: Phd researcher 
+  email: kalasir1@asu.edu
+  education: Phd, Arizona State University 
+
+  ## Master Students
+
+  name: Sri Harsha Gajavalli
+  <img src="../img/SriHarshaGajavalli-profilepic.png" alt="Sri Harsha Gajavilli" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
+  info: Graduate researcher 
   email: sgajaval@asu.edu 
-  education1: Master, Arizona State University 
+  education: Master, Arizona State University 
 
-- name: Easton Kelso 
-  photo: easton_kelso.jpg
+
+
+
+  ## Undergradute Students 
+
+  name: Easton Kelso 
+  <img src="../img/easton_kelso.jpg" alt="Easton Kelso" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
   info: undergraduate researcher 
   email: eakelso@asu.edu
-  education1: Undergraduate, Arizona State University 
+  education: Undergraduate, Arizona State University 
   
-- name: Junichi Koizumi 
-  photo: Junichi.jpeg
+  name: Junichi Koizumi 
+  <img src="../img/Junichi.jpeg" alt="Junichi Koizumi" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
   info: undergraduate researcher 
   email: jkoizum1@asu.edu
   education: Undergradute, Arizona State University 
 
-- name: Mrinaal Ramachandran
- photo: Mrinaal.jpeg
- info: Undergraduate Researcher 
- email: mrinaalr@icloud.com
- education: Undergraduate, Arizona State University 
+  name: Mrinaal Ramachandran
+  <img src="../img/Mrinaal.jpeg" alt="Mrinaal Ramachandran" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
+  info: Undergraduate Researcher 
+  email: mrinaalr@icloud.com
+  education: Undergraduate, Arizona State University 
 
-- name: Khalid Alasiri
-  photo: Khalid.jpg
-  info: Phd Researcher 
-  email: kalasir1@asu.edu
-  education: Phd, Arizona State University 
-
-- name: Saharsh Goenka
-  photo: saharsh.png
+  name: Saharsh Goenka
+  <img src="../img/saharsh.png" alt="Saharsh Goenka" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
   info: Undergraduate Researcher 
   email: sgoenka1@asu.edu
   education: Undergraduate, Arizona State University 
 
-- name: Adit Prabhu
+  name: Adit Prabhu
+  <img src="../img/Adit_PFP1.jpeg" alt="Adit Prabhu" style="max-width: 15%; height: auto; float: left; margin-right: 20px;">
   photo : Adit_PFP1.jpeg
   info : Undergradute Researcher 
   email : adprabh2@asu.edu
