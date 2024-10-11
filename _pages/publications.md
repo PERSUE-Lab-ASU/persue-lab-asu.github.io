@@ -1,4 +1,4 @@
----
+ ---
 title: "Persue Lab - Publications"
 layout: gridlay
 excerpt: "Persue Lab -- Publications."
@@ -61,14 +61,14 @@ permalink: /publications/
   venue_short_name: SOUPS 2022
   paper_link: "[https://www.usenix.org/system/files/soups2022-poster57_hasan_abstract_final_1.pdf](https://www.usenix.org/system/files/soups2022-poster57_hasan_abstract_final_1.pdf)"
   poster_link: "[https://www.usenix.org/system/files/soups2022-poster57_hasan_final_1.pdf](https://www.usenix.org/system/files/soups2022-poster57_hasan_final_1.pdf)"
-  poster_image_link: "[prof/soups2022-poster57_hasan_final_1.jpg](prof/soups2022-poster57_hasan_final_1.jpg)"
+ 
 
  The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter
  *Rakibul Hasan, Cristobal Cheyre, Yong-Yeol Ahn, Roberto Hoyle, Apu Kapadia*
   year: 2022
   venue_full_name: Proceedings of the International AAAI Conference on Web and Social Media
   venue_short_name: AAAI 22
-  paper_link: "[../Publications/aaai-paper-22.pdf](../Publications/prof/aaai-paper-22.pdf)"
+  paper_link: "[../Publications/aaai-paper-22.pdf](../Publications/aaai-paper-22.pdf)"
 
  Understanding Utility and Privacy of Demographic Data in Education Technology by Causal Analysis and Adversarial-Censoring
  *Rakibul Hasan, Mario Fritz*
