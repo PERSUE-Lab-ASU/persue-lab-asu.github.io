@@ -18,18 +18,18 @@ permalink: /publications/
   year: 2023
   venue_full_name: Nineteenth Symposium on Usable Privacy and Security
   venue_short_name: SOUPS'23
-  paper_link: "[/assets/publications/SOUPS_23_poster_edtech/abstract.pdf](/assets/publications/SOUPS_23_poster_edtech/abstract.pdf)"
-  poster_link: "[/assets/publications/SOUPS_23_poster_edtech/poster.pdf](/assets/publications/SOUPS_23_poster_edtech/poster.pdf)"
-  poster_image_link: "[SOUPS_23_poster_edtech/poster.jpg](SOUPS_23_poster_edtech/poster.jpg)"
+  paper_link: "[../Publications/Exploring.pdf](../Publications/Exploring.pdf)"
+  poster_link: "[../Publications/Exploring.pdf](../Publications/Exploring.pdf)"
+  poster_image_link: "[../Publications/Exploring.jpg](../Publications/Exploring.jpg)"
 
   Understanding the Effect of Private Data in Disinformation Propagation
   *Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan*
   year: 2023
   venue_full_name: Nineteenth Symposium on Usable Privacy and Security
   venue_short_name: SOUPS'23
-  paper_link: "[/assets/publications/SOUPS_23_poster_misinfo/abstract.pdf](/assets/publications/SOUPS_23_poster_misinfo/abstract.pdf)"
-  poster_link: "[/assets/publications/SOUPS_23_poster_misinfo/poster.pdf](/assets/publications/SOUPS_23_poster_misinfo/poster.pdf)"
-  poster_image_link: "[SOUPS_23_poster_misinfo/poster.jpg](SOUPS_23_poster_misinfo/poster.jpg)"
+  paper_link: "[../Publications/Understanding.pdf](../Publications/Understanding.pdf)"
+  poster_link: "[../Publications/Understanding.pdf](../Publications/Understanding.pdf)"
+  poster_image_link: "[../Publications/understanding.jpg](../Publications/understanding.jpg)"
 
 
  From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency
@@ -37,7 +37,7 @@ permalink: /publications/
   year: 2023
   venue_full_name: 'Designing Technology and Policy Simultaneously: Towards A Research Agenda and New Practice'
   venue_short_name: CHI'23 Workshop
-  paper_link: "[/assets/publications/CHI_23_Design_Policy_misinfo.pdf](/assets/publications/CHI_23_Design_Policy_misinfo.pdf)"
+  paper_link: "[../Publications/CHI_23_Design_Policy_misinfo.pdf](../Publications/CHI_23_Design_Policy_misinfo.pdf)"
 
  A Psychometric Scale to Measure Individuals' Value of Other People's  Privacy (VOPP)
  *Rakibul Hasan, Rebecca Weil, Rudolf Siegel, Katharina Krombholz* 
@@ -68,7 +68,7 @@ permalink: /publications/
   year: 2022
   venue_full_name: Proceedings of the International AAAI Conference on Web and Social Media
   venue_short_name: AAAI 22
-  paper_link: "[/assets/publications/prof/aaai-paper-22.pdf](/assets/publications/prof/aaai-paper-22.pdf)"
+  paper_link: "[../Publications/aaai-paper-22.pdf](../Publications/prof/aaai-paper-22.pdf)"
 
  Understanding Utility and Privacy of Demographic Data in Education Technology by Causal Analysis and Adversarial-Censoring
  *Rakibul Hasan, Mario Fritz*
@@ -138,4 +138,4 @@ permalink: /publications/
   year: 2013
   venue_full_name: 2013 4th International Conference on Intelligent Systems, Modelling and Simulation
   venue_short_name: ISMS 13
-  paper_link: "[/assets/publications/prof/ISMS2013.pdf](/assets/publications/prof/ISMS2013.pdf)"
+  paper_link: "[../Publications/ISMS2013.pdf](../Publications/ISMS2013.pdf)"
