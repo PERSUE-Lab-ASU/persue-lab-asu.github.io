@@ -1,7 +1,7 @@
 ---
 title: "PERSUE: PrivatE, Reliable and SecUrE Computing Lab - Home"
 layout: homelay
-excerpt: "PERSUE Lab at Arizona State University &rarr; ASU."
+excerpt: "PERSUE: PrivatE, Reliable and SecUrE Computing Lab."
 sitemap: false
 permalink: /
 ---
