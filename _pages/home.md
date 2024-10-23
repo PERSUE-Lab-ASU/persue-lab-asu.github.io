@@ -12,3 +12,24 @@ Our research activities identify and understand privacy, security, and reliabili
 
 We take a human-centered perspective to understand the problem space while combining techniques from **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems.
 
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+    </div>       
+     <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+    </div>
+</div>
