@@ -1,7 +1,7 @@
 ---
 title: "Persue Lab - Home"
 layout: homelay
-excerpt: "Persue Lab  at Arizona State University &rarr; ASU."
+excerpt: "PERSUE--PrivatE, Reliable, and SecUrE Computing---Lab"
 sitemap: false
 permalink: /
 ---
