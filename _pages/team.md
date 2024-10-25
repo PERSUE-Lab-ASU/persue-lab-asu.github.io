@@ -29,13 +29,14 @@ Dr. Rakibul is also affiliated with [Cybersecurity and Trusted Foundations](http
 PhD Researcher  
 **Email:** snavid2@asu.edu  
 **Education:** PhD at Arizona State University
+I am developing an automated pipeline that interacts with Android applications while monitoring their behavior. Our research provides more granular insight than prior works into how apps access and transmit users' sensitive data. Additionally, we aim to investigate whether apps handle user information differently across various geolocations.
 
 ![Khalid Alasiri](../img/Khalid.jpg){: style="max-width: 15%; height: auto;"}
 **Khalid Alasiri**  
 PhD Researcher  
 **Email:** kalasir1@asu.edu  
 **Education:** PhD at Arizona State University
-
+I am working to develop proactive cyber defense mechanisms that will dynamically adapt to the attacker's behaviors and attack strategy.
 ---
 
 ## Master Students
@@ -55,6 +56,7 @@ Graduate Researcher
 Undergraduate Researcher  
 **Email:** eakelso@asu.edu  
 **Education:** Undergraduate at Arizona State University
+I am researching to unveil the privacy and security hurdles within the education technology (edtech) landscape in regards to Higher Education Institutions (HEIs). The first stretch of research has uncovered the challenges that HEIs face during the acquisition process of these edtechs. Our first study, uncovered the EdTech acquisition process in the HEI context including the consideration of security and privacy issues throughout that process, the pain points of HEI personnel in establishing adequate protection mechanisms in service contracts, and their struggle in holding vendors accountable due to a lack of visibility into their system and power-asymmetry, among other reasons. Continued research involves understanding the differing technologies that faculty use at HEIs that are unsanctioned by their institutions to uncover any privacy and security concerns that are involved.
 
 ![Junichi Koizumi](../img/Junichi .jpeg){: style="max-width: 15%; height: auto;"}
 **Junichi Koizumi**  
