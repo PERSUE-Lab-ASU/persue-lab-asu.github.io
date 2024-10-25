@@ -29,7 +29,7 @@ Our research identifies and understands privacy, security, and reliability issue
             <img src="{{ site.url }}{{ site.baseurl }}/img/slider/easton-ccs.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/img/slider/tianyi-wpes.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/img/slider/tianyi-wpes.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
