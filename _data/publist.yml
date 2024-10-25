@@ -6,3 +6,9 @@
   link:
     url: https://arxiv.org/abs/2405.11712
   highlight: 1
+
+- title: "Discovering privacy harms from Education Technology by analyzing user reviews"
+  image: themes.pdf
+  description: We investigate how the students and other users of education technologies (such as Zoom) experience and perceive the security and privacy issues. We identify several themes as shown in the diagram.
+  authors: Tianyi Yang, Rakibul Hasan
+  highlight: 1
