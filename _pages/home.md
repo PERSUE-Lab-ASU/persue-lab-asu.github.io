@@ -5,8 +5,8 @@ excerpt: "PERSUE--PrivatE, Reliable, and SecUrE Computing---Lab"
 sitemap: false
 permalink: /
 ---
-
-# We work to improve the privacy, security, and reliability of computing technologies.
+# Welcome to the PERSUE Lab
+## Our research aims to improve the privacy, security, and reliability of computing technologies.
 
 <span style="font-size:x-large;">
 Our research identifies and understands privacy, security, and reliability issues with information technologies and explore mitigation strategies toward a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from **System Security**, **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems.
