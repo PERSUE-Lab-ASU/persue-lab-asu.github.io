@@ -6,10 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-### We aim to enhance the privacy, security, and reliability of computing technologies.
+# We work to improve the privacy, security, and reliability of computing technologies.
 
+<span style="font-size:x-large;">
 Our research identifies and understands privacy, security, and reliability issues with information technologies and explore mitigation strategies toward a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from **System Security**, **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems.
-
+</span>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
