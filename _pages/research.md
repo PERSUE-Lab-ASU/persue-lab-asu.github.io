@@ -6,7 +6,14 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Ongoing projects 
+
+## Privacy and Security of Technology Ecosystems in Higher Education Institutes
+Higher education institutes (HEIs) are quickly becoming complex ecosystems of various computing technologies handling diverse data pertaining to teaching, research, lifestyles and mobility in campus, health and finances, and immigration status. These technologies and services are provided by, in most cases, third-party for-profit vendors, and their integration creates complex ecosystems that often lack transparency and auditability, as identified in our recent paper. This opaque collection of systems, and data flows among them, which can not be monitored by HEI personnel, creates a lot of opportunities for privacy invasion as well as safety and welbeing of the data subjects. Simultenously, the massive amounts of data these technologies collect are making HEis lucrative targets for cyber attackers.
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/edtech-slide.png" height="250" style="float:right"/>
+
+Our research is sheding light on this emerging problems through qualitative explorations, as well as developing tools and frameworks for identifying and quantifying privacy and security issues, as well as innovating protective mechanisms.
+
 
 ### Khalid Alasiri 
 
