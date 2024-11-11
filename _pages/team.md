@@ -29,7 +29,6 @@ Dr. Rakibul is also affiliated with [Cybersecurity and Trusted Foundations](http
 PhD Researcher  
 **Email:** snavid2@asu.edu  
 **Education:** PhD at Arizona State University
-
 **Research:** I am developing an automated pipeline that interacts with Android applications while monitoring their behavior. Our research provides more granular insight than prior works into how apps access and transmit users' sensitive data. Additionally, we aim to investigate whether apps handle user information differently across various geolocations.
 
 ![Khalid Alasiri](../img/Khalid.jpg){: style="max-width: 15%; height: auto;"}
@@ -37,8 +36,8 @@ PhD Researcher
 PhD Researcher  
 **Email:** kalasir1@asu.edu  
 **Education:** PhD at Arizona State University
-
 **Research:** I am working to develop proactive cyber defense mechanisms that will dynamically adapt to the attacker's behaviors and attack strategy.
+
 ---
 
 ## Master Students
