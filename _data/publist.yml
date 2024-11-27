@@ -11,4 +11,7 @@
   image: themes.pdf
   description: We investigate how the students and other users of education technologies (such as Zoom) experience and perceive the security and privacy issues. We identify several themes as shown in the diagram.
   authors: Tianyi Yang, Rakibul Hasan
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3689943.3695050
+    display: Link to ACM Library version
   highlight: 1
