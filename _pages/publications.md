@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
 
 
 {% assign number_printed = 0 %}
@@ -179,3 +179,11 @@ permalink: /publications/
   venue_full_name: 2013 4th International Conference on Intelligent Systems, Modelling and Simulation
   venue_short_name: ISMS 13
   paper_link: "[../Publications/ISMS2013.pdf](../Publications/ISMS2013.pdf)"
+
+{% for publi in site.data.publist %}
+
+{{ publi.title }} 
+{{ publi.authors }} 
+{{ publi.link.display }}
+
+{% endfor %}
