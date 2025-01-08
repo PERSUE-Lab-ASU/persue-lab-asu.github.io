@@ -9,9 +9,15 @@
 
 - title: "Discovering privacy harms from Education Technology by analyzing user reviews"
   image: themes.pdf
-  description: We investigate how the students and other users of education technologies (such as Zoom) experience and perceive the security and privacy issues. We identify several themes as shown in the diagram.
+  description: We investigate how students and other users of education technologies (such as Zoom) experience and perceive security and privacy issues. We identify several themes as shown in the diagram.
   authors: Tianyi Yang, Rakibul Hasan
   link:
     url: https://dl.acm.org/doi/abs/10.1145/3689943.3695050
     display: Link to ACM Library version
   highlight: 1
+
+- title: "Tell me what you like and I know what you will share: Topical interest influences behavior toward news from high and low credible sources"
+- image:
+- description: Are people more (or less) likely to believe or share (dis)information when they are interested in the news topic and are perhaps more knowledgeable on it? Does one's news consumption sources (online versus TV) play any role here? We investigate these questions here.
+- authors: Rebecca Weil, Sahar Andelnabi, Mario Fritz, Rakibul Hasan
+- highlight: 0
