@@ -1,11 +1,19 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Dr. Rakibul Hassan 
+ photo: dr_rakibul_hasan.png
+ info: Associate professor in the School of Computing and Augmented Intelligence at ASU. Dr. Rakibul is also affiliated with Cybersecurity and Trusted Foundations and the Human, Artificial Intelligence, and Robot Teaming initiatives.
+ email: rhasan3@asu.edu
+ number_educ: 2
+ education1: Ph.D. in Computer Science from Indiana University Bloomington (2020) 
+ education2: Postdoctoral researcher at CISPA Helmholtz Center for Information Security
+
+- name: Syed Zami-Ul-Haque Navid
+  photo: navid.jpg
+  info : PH.D. researcher 
+  email: snavid2@asu.edu
+  number_edu: 1
+  education1:  PhD at Arizona State University
+  research: I am developing an automated pipeline that interacts with Android applications while monitoring their behavior. Our research provides more granular insight than prior works into how apps access and transmit users’ sensitive data. Additionally, we aim to investigate whether apps handle user information differently across various geolocations.
+
+   
 
 
