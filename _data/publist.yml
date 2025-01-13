@@ -30,8 +30,8 @@
   description: 
   authors: Waqar Hassan Khan, Protik Bose Pranto, Tianyi Yang, Rakibul Hasan
   link:
-    url: ../Publications/Exploring.pdf
-    display: See preprint
+    url: "../Publications/Exploring.pdf"
+    display: "[../Publications/Exploring.pdf](../Publications/Exploring.pdf)"
   highlight: 0
 
 - title: "Understanding the Effect of Private Data in Disinformation Propagation"
