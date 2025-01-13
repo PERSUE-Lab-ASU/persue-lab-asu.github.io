@@ -4,7 +4,7 @@
   description: What privacy and security risks are posed by technologies that are being used at universities? This paper investigates the challenges universities face to ensure data privacy, security, and safety to the students and other stakeholders.
   authors: Easton Kelso, Ananta Soneji, Sazzadur Rahaman, Yan Soshitaishvili, Rakibul Hasan
   link:
-    url: "[https://arxiv.org/abs/2405.11712](https://arxiv.org/abs/2405.11712)"
+    url: https://arxiv.org/abs/2405.11712
     display: https://arxiv.org/abs/2405.11712
   highlight: 1
 
@@ -22,8 +22,8 @@
   description: Are people more (or less) likely to believe or share (dis)information when they are interested in the news topic and are perhaps more knowledgeable on it? Does one's news consumption sources (online versus TV) play any role here? We investigate these questions here.
   authors: Rebecca Weil, Sahar Andelnabi, Mario Fritz, Rakibul Hasan
   link:
-    url: https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a504/1ZyWJ8iwiys
-    display: Link to IEEE version
+    url: "https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a504/1ZyWJ8iwiys"
+    display: "[https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a504/1ZyWJ8iwiys](https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a504/1ZyWJ8iwiys)"
   highlight: 0
 
 - title: "Exploring Privacy and Security Concerns of EdTech Users: A Qualitative Analysis of User Written Reviews"
