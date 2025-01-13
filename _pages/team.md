@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Staff
+## Faculty
 
 ![Dr. Rakibul Hasan](../img/dr_rakibul_hasan.png){: style="max-width: 15%; height: auto;"}
 **Dr. Rakibul Hasan**  
