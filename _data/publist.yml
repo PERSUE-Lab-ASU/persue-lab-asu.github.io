@@ -20,13 +20,17 @@
   image:
   description: Are people more (or less) likely to believe or share (dis)information when they are interested in the news topic and are perhaps more knowledgeable on it? Does one's news consumption sources (online versus TV) play any role here? We investigate these questions here.
   authors: Rebecca Weil, Sahar Andelnabi, Mario Fritz, Rakibul Hasan
+  link:
+    url: https://www.computer.org/csdl/proceedings-article/eurospw/2024/672900a504/1ZyWJ8iwiys
+    display: Link to IEEE version
   highlight: 0
 
 - title: "Exploring Privacy and Security Concerns of EdTech Users: A Qualitative Analysis of User Written Reviews"
   description: 
   authors: Waqar Hassan Khan, Protik Bose Pranto, Tianyi Yang, Rakibul Hasan
   link:
-    url: https://arxiv.org/abs/2405.11712
+    url: ../Publications/Exploring.pdf
+    display: See preprint
   highlight: 0
 
 - title: "Understanding the Effect of Private Data in Disinformation Propagation"
