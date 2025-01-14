@@ -10,9 +10,6 @@ permalink: /team/
 
 ## Faculty
 
-# Group Members
-
-## Faculty
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="display: flex; gap: 15px; width: 48%;">
