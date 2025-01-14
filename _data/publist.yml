@@ -4,8 +4,8 @@
   description: What privacy and security risks are posed by technologies that are being used at universities? This paper investigates the challenges universities face to ensure data privacy, security, and safety to the students and other stakeholders.
   authors: Easton Kelso, Ananta Soneji, Sazzadur Rahaman, Yan Soshitaishvili, Rakibul Hasan
   link:
-    url: https://arxiv.org/abs/2405.11712
-    display: https://arxiv.org/abs/2405.11712
+    url: "https://arxiv.org/abs/2405.11712"
+    display: "[https://arxiv.org/abs/2405.11712](https://arxiv.org/abs/2405.11712)"
   highlight: 1
 
 - title: "Discovering privacy harms from Education Technology by analyzing user reviews"
@@ -13,8 +13,8 @@
   description: We investigate how students and other users of education technologies (such as Zoom) experience and perceive security and privacy issues. We identify several themes as shown in the diagram.
   authors: Tianyi Yang, Rakibul Hasan
   link:
-    url: https://dl.acm.org/doi/abs/10.1145/3689943.3695050
-    display: Link to ACM Library version
+    url: "https://dl.acm.org/doi/abs/10.1145/3689943.3695050"
+    display: "[Link to ACM Library version](https://dl.acm.org/doi/abs/10.1145/3689943.3695050)"
   highlight: 1
 
 - title: "Tell me what you like and I know what you will share: Topical interest influences behavior toward news from high and low credible sources"
