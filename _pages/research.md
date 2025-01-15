@@ -18,7 +18,7 @@ Our research is sheding light on this emerging problems through qualitative expl
 
 ## Deception-based Proactive Defense to Prevent Cyberattacks
 
-<img src="{{ site.url }}{{ site.baseurl }}/img/projects/cyber.jpg" height="250" style="float:left"/>
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/cyber.jpg" height="250" style="float:left; margin:0px 10px"/>
 Coordinated cyber attackers are increasingly employing sophisticated techniques and tactics to compromize critical infrastructures. Current preventive mechanisms are most often reactive and creates too many false positive alarms. Recent research has recognized the critical need for proactive defense mechanisms that can *prevent an attack from succeeding*. Deception-based defense, that attemts to mislead the attackers to waste their time and resources, and simultaneously learns more about their attack strategy to strengthen the defense ssytem, are among the most promising approaches to proactive defese. We are building the next generation deception mechanisms that will dynamically adapt to the attacker's attack strategy. By analyzing attacker personality traits, TODDE predicts their next moves and deploys customized deception tactics, such as AI-powered honeypots that adaptively respond to attacker behavior, making the deception more realistic and effective. This dynamic framework combines psychological insights, advanced AI, and machine learning to enhance cybersecurity defenses through targeted, adaptive deception. 
 
 **Methods**: causal machine learning, system development for real attack-based experiments, cognitive psychology.
@@ -31,7 +31,7 @@ Digital technologies collect massive amounts of data *from people who are not th
 **Methods:** modeling human decision-making, cognitive and behavioral sciene, user studies, mobile app development.
 
 ## Personalized Misinformation
-<img src="{{ site.url }}{{ site.baseurl }}/img/projects/misinfo.jpg" height="250" style="float:left"/>
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/misinfo.jpg" height="250" style="float:left; margin:0px 10px"/>
 
 The digital traces we leave behind while using browsing the internet, or the intimate details that wearable devices (e.g., fitness trackers) collect, which includes physiological and psychologiecal information, provides a lot of clue about our interests, life styles, as well as demographics, physical and cognitive properties. Such clues can be used, or abused, by anyone having access to that data, including entities that can buy this data from data collectors in the marketplace. One of the prominent dangers from such data abuse is **personalized misinformation**---which might allow an adversary to propagate misinformation in a more effective and efficient way compared to just broadcasting it to everyone.
 
