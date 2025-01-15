@@ -87,4 +87,10 @@ Undergraduate Researcher
 **Email:** adprabh2@asu.edu  
 **Education:** Undergraduate at Arizona State University
 
+![Asish Panda](../img/Asish.jpeg){: style="max-width: 15%; height: auto;"}
+**Asish Panda**  
+Undergraduate Researcher  
+**Email:** apanda13@asu.edu  
+**Education:** Undergraduate at Arizona State University
+**Bio and Research interest**: I am a Computer Science Junior at Arizona State University, part of the Barrett Honors College and the Grand Challenges Scholar Program. Being passionate about AI, I focus on human-robot interactions, machine learning, and autonomous vehicles. As a National Master in chess, I have honed my strategic thinking and problem-solving skills. Representing my chess team from middle school to now has strengthened my leadership, teamwork, and decision-making abilities under pressure.
 
