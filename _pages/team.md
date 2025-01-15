@@ -87,7 +87,7 @@ Undergraduate Researcher
 **Email:** adprabh2@asu.edu  
 **Education:** Undergraduate at Arizona State University
 
-![Asish Panda](../img/Asish.jpeg){: style="max-width: 15%; height: auto;"}
+![Asish Panda](../img/asish.png){: style="max-width: 15%; height: auto;"}
 **Asish Panda**  
 Undergraduate Researcher  
 **Email:** apanda13@asu.edu  
