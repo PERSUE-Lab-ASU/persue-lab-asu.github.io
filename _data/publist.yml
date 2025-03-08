@@ -1,10 +1,12 @@
-- title: "Investigating the Security & Privacy Risks from Unsanctioned Technology Use by Educators" 
+- title: "Investigating the Security & Privacy Risks from Unsanctioned Technology Use by Educators"
   description: This study investigates what technologies educators use that are unsanctioned-- i.e., not audited for security and privacy protections and compliance with applicable laws--and how do they impact the privacy and security posture of K-12 schools, colleges, and universities.  
   authors: Easton Kelso, Ananta Soneji, Syed Zami-Ul-Haque Navid, Yan Soshitaishvili, Sazzadur Rahaman, Rakibul Hasan
+  description: What privacy and security risks are posed by technologies that are being used at universities? This paper investigates the challenges universities face to ensure data privacy, security, and safety to the students and other stakeholders.
+  authors: Easton Kelso, Ananta Soneji, Sazzadur Rahaman, Yan Soshitaishvili, Rakibul Hasan
   link:
-   url: "https://arxiv.org/pdf/2405.11712v1"
-   display: arXiv
-highlight: 0
+    url: "https://arxiv.org/pdf/2405.11712v1"
+    display: "arXiv"
+  highlight: 0
 - title: "Trust, Because You Can’t Verify: Privacy and Security Hurdles in Education Technology Acquisition Practices"
   image: edtechs.png
   description: What privacy and security risks are posed by technologies that are being used at universities? This paper investigates the challenges universities face to ensure data privacy, security, and safety to the students and other stakeholders.
