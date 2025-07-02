@@ -5,8 +5,8 @@ excerpt: "PERSUE--PrivatE, Reliable, and SecUrE Computing---Lab"
 sitemap: false
 permalink: /
 ---
-# Welcome to the PERSUE Lab
-### Our research aims to improve the *privacy*, *security*, and *reliability* of computing technologies.
+
+### Welcome to the PERSUE Lab. We aim to improve the *privacy*, *security*, and *reliability* of computing technologies.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
