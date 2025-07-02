@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<span style="font-size:18.0pt"> Welcome to the PERSUE Lab. We aim to improve the *privacy*, *security*, and *reliability* of computing technologies. </span>
+<span style="font-size:18.0pt"> Welcome to the **PERSUE Lab**. Our research improves the *privacy*, *security*, and *reliability* of computing technologies. </span>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
