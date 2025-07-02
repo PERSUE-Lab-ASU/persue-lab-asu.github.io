@@ -43,6 +43,6 @@ permalink: /
 </div>
 
 
-<span>
+<span style="font-size:14.0pt">
 Our research identifies and understands privacy, security, and reliability issues with information technologies and explores mitigation strategies toward a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from **System Security**, **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems.
 </span>
