@@ -14,9 +14,9 @@ permalink: /
 Our research identifies and addresses privacy, security, and reliability issues in information technologies, exploring mitigation strategies to create a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from **System Security**, **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems. [Learn more about our ongoing projects](https://persue-lab-asu.github.io/research/).
 </span>
 
-</br>
-</br>
 <div>
+    </br></br>
+
     <span>
         We thank the **NSF** and **DARPA** for their support of our research.
     </span>
