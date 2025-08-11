@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<span style="font-size:18.0pt; font-family: Helvetica, Veranda, Lucida Console;"> Welcome to the **PERSUE Lab**. Our research improves the *privacy*, *security*, and *reliability* of computing technologies. </span>
+<br />
+
+ ### Welcome to the **PERSUE Lab**. Our research improves the *privacy*, *security*, and *reliability* of computing technologies.
 
 <img src="img/team.jpg" alt="PERSUE Team" width="800">
 
