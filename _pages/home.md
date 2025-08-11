@@ -8,9 +8,11 @@ permalink: /
 
 <br />
 
- ### Welcome to the **PERSUE Lab**. Our research improves the *privacy*, *security*, and *reliability* of computing technologies.
+<span style="font-size:18px"> 
+Welcome to the **PERSUE Lab**. Our research improves the *privacy*, *security*, and *reliability* of computing technologies.
+</span>
 
-<img src="img/team.jpg" alt="PERSUE Team" width="800">
+<img src="img/team.jpg" alt="PERSUE Team" width="600">
 
 
 Our research identifies and addresses privacy, security, and reliability issues in information technologies, exploring mitigation strategies to create a safer technology ecosystem. We take a human-centered perspective to understand the problem space while combining techniques from **System Security**, **AI and Machine Learning**, **Internet Measurement**, **Cognitive Psychology**, and **Statistical Causal Inference methodologies** to solve the identified problems. [Learn more about our ongoing projects](https://persue-lab-asu.github.io/research/).
