@@ -43,6 +43,7 @@ PhD Researcher
 
 ![Wesley Kwan](../img/Wesley.png){: style="max-width: 15%; height: auto;"}
 **Wesley Kwan**
+
 PhD Researcher 
 **Education:** PhD at Arizona State University
 
