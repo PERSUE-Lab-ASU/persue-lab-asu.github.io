@@ -45,6 +45,7 @@ PhD Researcher
 **Wesley Kwan**
 
 PhD Researcher 
+
 **Education:** PhD at Arizona State University
 
 **Research:** Previously, I researched ways to predict hacker behavior for cyber-threat intelligence by designing systems to collect and analyze data from forums and marketplaces on the dark web. At PERSUE Lab, I aim to uncover and understand mechanisms behind the decisions of digital actors through causal machine learning, particularly as it pertains to user privacy and system security.
