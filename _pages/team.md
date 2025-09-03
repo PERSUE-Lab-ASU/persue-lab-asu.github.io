@@ -41,6 +41,13 @@ PhD Researcher
 
 **Research:** I am working to develop proactive cyber defense mechanisms that will dynamically adapt to the attacker's behaviors and attack strategy.
 
+![Wesley Kwan](../img/Wesley.png){: style="max-width: 15%; height: auto;"}
+**Wesley Kwan**
+PhD Researcher 
+**Education:** PhD at Arizona State University
+
+**Research:** Previously, I researched ways to predict hacker behavior for cyber-threat intelligence by designing systems to collect and analyze data from forums and marketplaces on the dark web. At PERSUE Lab, I aim to uncover and understand mechanisms behind the decisions of digital actors through causal machine learning, particularly as it pertains to user privacy and system security.
+
 ---
 
 ## Master Students
