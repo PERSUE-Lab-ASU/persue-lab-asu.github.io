@@ -78,6 +78,12 @@ Undergraduate Researcher
 **Email:** jkoizum1@asu.edu  
 **Education:** Undergraduate at Arizona State University
 
+![Lakshya Dhingra](../img/Junichi .jpeg){: style="max-width: 15%; height: auto;"}
+**Lakshya Dhingra**  
+Undergraduate Researcher  
+**Email:** ldhingra@asu.edu  
+**Education:** Undergraduate at Arizona State University
+
 ![Mrinaal Ramachandran](../img/Mrinaal.jpeg){: style="max-width: 15%; height: auto;"}
 **Mrinaal Ramachandran**  
 Undergraduate Researcher  
