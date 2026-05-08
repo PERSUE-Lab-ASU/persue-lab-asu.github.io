@@ -169,3 +169,19 @@
     url: "../Publications/ISMS2013.pdf"
     display: "[../Publications/ISMS2013.pdf](../Publications/ISMS2013.pdf)"
   highlight: 0
+
+- title: "What's Privacy Good for? Measuring Privacy as a Shield from Harms due to AI Inference of Personal Data"
+  description: We propose a harm-centric conceptualization of privacy in the context of AI use in education and employment. In an online study (N=400), US college students reported their perceptions of 14 harms when AI infers personal data and uses it in decision-making.
+  authors: Sri Harsha Gajavalli, Junichi Koizumi, Rakibul Hasan
+  link:
+    url: "https://doi.org/10.1145/3772318.3791102"
+    display: "Link to ACM CHI 2026 version"
+  highlight: 0
+
+- title: "The Unbearable Darkness Of Being (In The Job Market): Privacy and Reliability of LLM-based Candidate Evaluation"
+  description: This study investigates LLMs' capability to infer personality traits from resumes and how resume customization affects trait inference and candidate ratings, discussing implications for job seekers' privacy and hiring transparency.
+  authors: Junichi Koizumi, Lakshya Dhingra, Rakibul Hasan
+  link:
+    url: "https://doi.org/10.1145/3803628.3807974"
+    display: "Link to ACM LM-SHIELD 2026 version"
+  highlight: 0
