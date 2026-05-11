@@ -1,3 +1,10 @@
+- title: "The Unbearable Darkness Of Being (In The Job Market): Privacy and Reliability of LLM-based Candidate Evaluation"
+  description: 
+  authors: Junichi Koizumi, Lakshya Dhingra, Rakibul Hasan
+  link:
+    url: "../Publications/LMShield.pdf"
+    display: "[../Publications/LMShield.pdf](../Publications/LMShield.pdf)"
+  highlight: 0
 - title: "Investigating the Security & Privacy Risks from Unsanctioned Technology Use by Educators"
   description: This study investigates what technologies educators use that are unsanctioned-- i.e., not audited for security and privacy protections and compliance with applicable laws--and how do they impact the privacy and security posture of K-12 schools, colleges, and universities.  
   authors: Easton Kelso, Ananta Soneji, Syed Zami-Ul-Haque Navid, Yan Soshitaishvili, Sazzadur Rahaman, Rakibul Hasan
