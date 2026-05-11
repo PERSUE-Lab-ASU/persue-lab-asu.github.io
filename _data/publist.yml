@@ -182,7 +182,7 @@
   authors: Sri Harsha Gajavalli, Junichi Koizumi, Rakibul Hasan
   link:
     url: "https://doi.org/10.1145/3772318.3791102"
-    display: "[Link to ACM CHI 2026 version](https://doi.org/10.1145/3772318.3791102)"
+    display: "[https://doi.org/10.1145/3772318.3791102](https://doi.org/10.1145/3772318.3791102)"
   highlight: 0
 
 - title: "The Unbearable Darkness Of Being (In The Job Market): Privacy and Reliability of LLM-based Candidate Evaluation"
@@ -190,5 +190,5 @@
   authors: Junichi Koizumi, Lakshya Dhingra, Rakibul Hasan
   link:
     url: "https://doi.org/10.1145/3803628.3807974"
-    display: "[Link to ACM LM-SHIELD 2026 version](https://doi.org/10.1145/3803628.3807974)"
+    display: "[https://doi.org/10.1145/3803628.3807974](https://doi.org/10.1145/3803628.3807974)"
   highlight: 0
