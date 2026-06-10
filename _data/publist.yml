@@ -194,8 +194,8 @@
   highlight: 0
 
 
-  - title: "Studying Personality and Attacker Behavior in a Deceptive Multi-Stage Capture-the-Flag Environment"
-  description: We present a realistic CTF experimental testbed to investigate how personality traits shape attacker behaviors during a controlled cyber attack simulation with embedded deception, providing design guidelines for future deception-based cyber defense studies.
+- title: "Studying Personality and Attacker Behavior in a Deceptive Multi-Stage Capture-the-Flag Environment"
+  description: We present a realistic CTF experimental testbed to investigate how personality traits shape attacker behaviors during a controlled cyber attack simulation with embedded deception.
   authors: Khalid Alasiri, Rakibul Hasan
   link:
     url: "../Publications/SCP2026_CTF.pdf"
