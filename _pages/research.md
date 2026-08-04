@@ -48,11 +48,11 @@ We are studying if that is possible, i.e., if people are more likely to fall for
 
 ## Privacy Education for K-12 Students
 
-<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay.jpg" class="img-responsive" style="float: right; width: 40%; margin-left: 15px; margin-bottom: 10px;" /> Children join online games and social platforms at young ages, yet learn almost nothing about how their data can be linked to identify them. We developed **PrivacyPlay**, an interactive scrollytelling web platform that teaches differential privacy, k-anonymity, and l-diversity to middle school students through character-driven stories and hands-on activities.
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay.jpg" class="img-responsive" style="float: right; width: 40%; margin-left: 15px; margin-bottom: 10px;" /> **PrivacyPlay** is an NSF-funded interactive web platform designed to bring foundational data privacy concepts to middle school students through storytelling and hands-on activities.
 
 <div style="clear:both;"></div>
 
-<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay2.jpg" class="img-responsive" style="float: left; width: 40%; margin-right: 15px; margin-bottom: 10px;" /> We deployed PrivacyPlay with 32 middle school students in a formative study, finding that interactive stories helped students articulate privacy concepts in their own words and recognize real-world privacy risks. This project is funded by the National Science Foundation (NSF).
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay2.jpg" class="img-responsive" style="float: left; width: 40%; margin-right: 15px; margin-bottom: 10px;" /> The platform covers three modules — local differential privacy, k-anonymity, and l-diversity — each built around relatable everyday scenarios like classroom voting and online gaming. We evaluated it in a formative study with 32 middle school students, uncovering promising results as well as opportunities to improve the platform.
 
 <div style="clear:both;"></div>
 
