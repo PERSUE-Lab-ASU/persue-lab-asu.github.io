@@ -48,7 +48,7 @@ We are studying if that is possible, i.e., if people are more likely to fall for
 
 ## Privacy Education for K-12 Students
 
-<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay1.jpg" class="img-responsive" style="float: right; width: 40%; margin-left: 15px; margin-bottom: 10px;" /> Children join online games and social platforms at young ages, yet learn almost nothing about how their data can be linked to identify them. We developed **PrivacyPlay**, an interactive scrollytelling web platform that teaches differential privacy, k-anonymity, and l-diversity to middle school students through character-driven stories and hands-on activities.
+<img src="{{ site.url }}{{ site.baseurl }}/img/projects/privacyplay.jpg" class="img-responsive" style="float: right; width: 40%; margin-left: 15px; margin-bottom: 10px;" /> Children join online games and social platforms at young ages, yet learn almost nothing about how their data can be linked to identify them. We developed **PrivacyPlay**, an interactive scrollytelling web platform that teaches differential privacy, k-anonymity, and l-diversity to middle school students through character-driven stories and hands-on activities.
 
 <div style="clear:both;"></div>
 
