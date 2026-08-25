@@ -32,11 +32,6 @@ permalink: /privacyplay/
 
 <div style="clear:both;"></div>
 
-<strong>Methods:</strong> interactive system development, scrollytelling visualization design, user studies, surveys, qualitative thematic analysis.
+**Methods:** interactive system development, scrollytelling visualization design, user studies, surveys, qualitative thematic analysis.
 
-<strong><a href="https://privacy-play-hub-code-fab.vercel.app/">[Website]</a></strong> &nbsp;
-<details style="display:inline-block;">
-<summary><strong>[GitHub]</strong></summary>
-<a href="https://github.com/PERSUE-Lab-ASU/PrivacyPlay_1.0">PrivacyPlay v1.0</a><br>
-<a href="https://github.com/PERSUE-Lab-ASU/PrivacyPlay_2.0">PrivacyPlay v2.0</a>
-</details>
+**[[Website]](https://privacy-play-hub-code-fab.vercel.app/) [[GitHub v1.0]](https://github.com/PERSUE-Lab-ASU/PrivacyPlay_1.0) [[GitHub v2.0]](https://github.com/PERSUE-Lab-ASU/PrivacyPlay_2.0)**
