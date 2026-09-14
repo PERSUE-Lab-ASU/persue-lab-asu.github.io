@@ -50,6 +50,21 @@ PhD Researcher
 
 **Research:** Previously, I researched ways to predict hacker behavior for cyber-threat intelligence by designing systems to collect and analyze data from forums and marketplaces on the dark web. At PERSUE Lab, I aim to uncover and understand mechanisms behind the decisions of digital actors through causal machine learning, particularly as it pertains to user privacy and system security.
 
+![Fabiha Neaz](../img/fabiha.jpg){: style="max-width: 15%; height: auto;"}
+**Fabiha Neaz**  
+PhD Researcher  
+**Email:** fneaz@asu.edu  
+**Education:** PhD at Arizona State University
+
+**Research:** My research explores how narrative visualization and interactive design can make abstract data privacy concepts visible, explorable, and intuitive.
+
+![Easton Kelso](../img/Easton(2).jpg){: style="max-width: 15%; height: auto;"}
+**Easton Kelso**  
+PhD Researcher  
+**Email:** eakelso@asu.edu  
+**Education:** PhD at Arizona State University
+
+**Research:** I am working to unveil the privacy and security hurdles within Higher Education Institutions (HEIs), including in education technologies and data stewardship.
 ---
 
 ## Master Students
@@ -63,14 +78,6 @@ Graduate Researcher
 ---
 
 ## Undergraduate Students
-
-![Easton Kelso](../img/easton_kelso.jpg){: style="max-width: 15%; height: auto;"}
-**Easton Kelso**  
-Undergraduate Researcher  
-**Email:** eakelso@asu.edu  
-**Education:** Undergraduate at Arizona State University
-
-**Research:** I am researching to unveil the privacy and security hurdles within the education technology (edtech) landscape in regards to Higher Education Institutions (HEIs). The first stretch of research has uncovered the challenges that HEIs face during the acquisition process of these edtechs. Our first study, uncovered the EdTech acquisition process in the HEI context including the consideration of security and privacy issues throughout that process, the pain points of HEI personnel in establishing adequate protection mechanisms in service contracts, and their struggle in holding vendors accountable due to a lack of visibility into their system and power-asymmetry, among other reasons. Continued research involves understanding the differing technologies that faculty use at HEIs that are unsanctioned by their institutions to uncover any privacy and security concerns that are involved.
 
 ![Junichi Koizumi](../img/Junichi .jpeg){: style="max-width: 15%; height: auto;"}
 **Junichi Koizumi**  
