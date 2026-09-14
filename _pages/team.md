@@ -50,7 +50,7 @@ PhD Researcher
 
 **Research:** Previously, I researched ways to predict hacker behavior for cyber-threat intelligence by designing systems to collect and analyze data from forums and marketplaces on the dark web. At PERSUE Lab, I aim to uncover and understand mechanisms behind the decisions of digital actors through causal machine learning, particularly as it pertains to user privacy and system security.
 
-![Fabiha Neaz]({{ site.url }}{{ site.baseurl }}/img/fabiha.jpg){: style="max-width: 15%; height: auto;"}
+![Fabiha Neaz](../img/projects/fabiha.jpg){: style="max-width: 15%; height: auto;"}
 **Fabiha Neaz**  
 PhD Researcher  
 **Email:** fneaz@asu.edu  
@@ -58,13 +58,15 @@ PhD Researcher
 
 **Research:** My research explores how narrative visualization and interactive design can make abstract data privacy concepts visible, explorable, and intuitive.
 
-![Easton Kelso]({{ site.url }}{{ site.baseurl }}/img/easton.jpg){: style="max-width: 15%; height: auto;"}
+![Easton Kelso](../img/projects/Easton(2).jpg){: style="max-width: 15%; height: auto;"}
 **Easton Kelso**  
 PhD Researcher  
 **Email:** eakelso@asu.edu  
 **Education:** PhD at Arizona State University
 
 **Research:** I am working to unveil the privacy and security hurdles within Higher Education Institutions (HEIs), including in education technologies and data stewardship.
+
+
 ---
 
 ## Master Students
